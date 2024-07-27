@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Enov Hugo | Html5 Business template</title>
+    <link>http://localhost:1313/enov/site/tags/</link>
+    <description>Recent content in Tags on Enov Hugo | Html5 Business template</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Sep 2019 10:30:13 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/enov/site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agency</title>
+      <link>http://localhost:1313/enov/site/tags/agency/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>http://localhost:1313/enov/site/tags/agency/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Branding</title>
+      <link>http://localhost:1313/enov/site/tags/branding/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>http://localhost:1313/enov/site/tags/branding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Company</title>
+      <link>http://localhost:1313/enov/site/tags/company/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>http://localhost:1313/enov/site/tags/company/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital</title>
+      <link>http://localhost:1313/enov/site/tags/digital/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>http://localhost:1313/enov/site/tags/digital/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HTML</title>
+      <link>http://localhost:1313/enov/site/tags/html/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>http://localhost:1313/enov/site/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marketing</title>
+      <link>http://localhost:1313/enov/site/tags/marketing/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>http://localhost:1313/enov/site/tags/marketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web</title>
+      <link>http://localhost:1313/enov/site/tags/web/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>http://localhost:1313/enov/site/tags/web/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

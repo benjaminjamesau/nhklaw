@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML on Enov Hugo | Html5 Business template</title>
+    <link>http://localhost:1313/enov/site/tags/html/</link>
+    <description>Recent content in HTML on Enov Hugo | Html5 Business template</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Sep 2019 10:30:13 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/enov/site/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Marketing strategy your should know</title>
+      <link>http://localhost:1313/enov/site/blog/post.2/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>http://localhost:1313/enov/site/blog/post.2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur?</description>
+    </item>
+    <item>
+      <title>Marketing strategy your should know</title>
+      <link>http://localhost:1313/enov/site/blog/post.6/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>http://localhost:1313/enov/site/blog/post.6/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur?</description>
+    </item>
+    <item>
+      <title>Skill to grow business rapidly</title>
+      <link>http://localhost:1313/enov/site/blog/post.3/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>http://localhost:1313/enov/site/blog/post.3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur?</description>
+    </item>
+  </channel>
+</rss>

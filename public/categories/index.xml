@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Enov Hugo | Html5 Business template</title>
+    <link>http://localhost:1313/enov/site/categories/</link>
+    <description>Recent content in Categories on Enov Hugo | Html5 Business template</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Sep 2019 10:30:13 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/enov/site/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creative</title>
+      <link>http://localhost:1313/enov/site/categories/creative/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>http://localhost:1313/enov/site/categories/creative/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital</title>
+      <link>http://localhost:1313/enov/site/categories/digital/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>http://localhost:1313/enov/site/categories/digital/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Innovation</title>
+      <link>http://localhost:1313/enov/site/categories/innovation/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>http://localhost:1313/enov/site/categories/innovation/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
