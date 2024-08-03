@@ -6,13 +6,13 @@ banner:
 
   # solid button
   button_solid:
-    enable : true
+    enable : false
     label : "Get started"
     link : "pricing/"
 
   # border button
   button_border:
-    enable : true
+    enable : false
     label : "Discover Enov"
     link : "service/"
 
@@ -90,7 +90,7 @@ service:
 
 ######################### pricing #####################################
 pricing:
-  enable : true
+  enable : false
   # pricing item comes from "data/**/pricing.yml" file
 
 ############################# Team ##################################
@@ -105,20 +105,20 @@ team:
       designation : "Project Manager"
       social:
         # social site loop
-        - icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
-          link : "#"
+        #- icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
+        #  link : "#"
           
         # social site loop
-        - icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
-          link : "#"
+        #- icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
+        #  link : "#"
           
         # social site loop
         - icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
           link : "#"
           
         # social site loop
-        - icon : "ti-github" # icon pack : https://themify.me/themify-icons
-          link : "#"
+        #- icon : "ti-github" # icon pack : https://themify.me/themify-icons
+        #  link : "#"
           
     ################### team member loop
     - name : "Mikel Emily"
@@ -126,104 +126,20 @@ team:
       designation : "Project Manager"
       social:
         # social site loop
-        - icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
-          link : "#"
+        #- icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
+        #  link : "#"
           
         # social site loop
-        - icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
-          link : "#"
-          
-        # social site loop
-        - icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
-          link : "#"
-          
-        # social site loop
-        - icon : "ti-github" # icon pack : https://themify.me/themify-icons
-          link : "#"
-          
-    ################### team member loop
-    - name : "David Spensor"
-      image : "images/team/team-3.jpg"
-      designation : "Project Manager"
-      social:
-        # social site loop
-        - icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
-          link : "#"
-          
-        # social site loop
-        - icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
-          link : "#"
+        #- icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
+        #  link : "#"
           
         # social site loop
         - icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
           link : "#"
           
         # social site loop
-        - icon : "ti-github" # icon pack : https://themify.me/themify-icons
-          link : "#"
-          
-    ################### team member loop
-    - name : "Jason Roy"
-      image : "images/team/team-4.jpg"
-      designation : "Project Manager"
-      social:
-        # social site loop
-        - icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
-          link : "#"
-          
-        # social site loop
-        - icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
-          link : "#"
-          
-        # social site loop
-        - icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
-          link : "#"
-          
-        # social site loop
-        - icon : "ti-github" # icon pack : https://themify.me/themify-icons
-          link : "#"
-          
-    ################### team member loop
-    - name : "Peter Odin"
-      image : "images/team/team-1.jpg"
-      designation : "Project Manager"
-      social:
-        # social site loop
-        - icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
-          link : "#"
-          
-        # social site loop
-        - icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
-          link : "#"
-          
-        # social site loop
-        - icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
-          link : "#"
-          
-        # social site loop
-        - icon : "ti-github" # icon pack : https://themify.me/themify-icons
-          link : "#"
-          
-    ################### team member loop
-    - name : "David Spensor"
-      image : "images/team/team-4.jpg"
-      designation : "Project Manager"
-      social:
-        # social site loop
-        - icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
-          link : "#"
-          
-        # social site loop
-        - icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
-          link : "#"
-          
-        # social site loop
-        - icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
-          link : "#"
-          
-        # social site loop
-        - icon : "ti-github" # icon pack : https://themify.me/themify-icons
-          link : "#"
+        #- icon : "ti-github" # icon pack : https://themify.me/themify-icons
+        #  link : "#"
 
 
 ################################### promo video ##########################

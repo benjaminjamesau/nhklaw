@@ -38,7 +38,8 @@
       <div class="col-lg-3 col-md-6 col-sm-6">
         <div class="widget">
           <h4 class="text-capitalize mb-4 text-white">{{ i18n "follow_us" }}</h4>
-          <ul class="list-unstyled footer-socials">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3026.2973418475676!2d-73.984127!3d40.66741700000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25afd418b8889%3A0xdabbc79f4b619b7!2sNeil%20H.%20Kupferman%2C%20Esq.%2C%20PC!5e0!3m2!1sen!2sde!4v1722428554479!5m2!1sen!2sde" style="border:0;" allowfullscreen="" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <ul class="list-unstyled footer-socials d-flex" style="gap: 20px;">
             {{ range .Site.Params.social }}
             <li><a href="{{ .link | safeURL }}"><i class="{{ .icon }} mr-2 text-muted"></i>{{ .name }}</a></li>
             {{ end }}
