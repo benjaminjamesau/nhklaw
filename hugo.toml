@@ -1,5 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/enov/site/"
+##baseURL = "https://demo.gethugothemes.com/enov/site/"
+baseURL = "https://nhklaw.pages.dev/"
 ##baseURL = "/"
 title = "Enov Hugo | Html5 Business template"
 theme = "enov-hugo"
@@ -107,11 +108,6 @@ URL = "about/"
 weight = 2
 
 [[menu.main]]
-name = "Blog"
-URL = "blog/"
-weight = 3
-
-[[menu.main]]
 weight = 4
 name = "Pages"
 hasChildren = true
@@ -131,10 +127,6 @@ hasChildren = true
   name = "Service"
   URL = "service/"
   
-[[menu.main]]
-name = "Contact"
-URL = "contact/"
-weight = 5
 
 # footer menu
 [[menu.footer]]
@@ -184,9 +176,9 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
 [params.navigation_button]
-enable = false
-label = "get a quote"
-link = "contact/"
+enable = true
+label = "Call Now"
+link = "17187683046"
 
 # google map
 [params.map]

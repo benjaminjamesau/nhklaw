@@ -2,378 +2,378 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/enov/site/fr/about/</loc>
+    <loc>http://localhost:1313/fr/about/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/about/"
+                href="http://localhost:1313/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/about/"
+                href="http://localhost:1313/fr/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/tags/agency/</loc>
+    <loc>http://localhost:1313/fr/tags/agency/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/tags/agency/"
+                href="http://localhost:1313/tags/agency/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/tags/agency/"
+                href="http://localhost:1313/fr/tags/agency/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/tags/branding/</loc>
+    <loc>http://localhost:1313/fr/tags/branding/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/tags/branding/"
+                href="http://localhost:1313/tags/branding/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/tags/branding/"
+                href="http://localhost:1313/fr/tags/branding/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/categories/</loc>
+    <loc>http://localhost:1313/fr/categories/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/categories/"
+                href="http://localhost:1313/fr/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/tags/company/</loc>
+    <loc>http://localhost:1313/fr/tags/company/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/tags/company/"
+                href="http://localhost:1313/tags/company/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/tags/company/"
+                href="http://localhost:1313/fr/tags/company/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/contact/</loc>
+    <loc>http://localhost:1313/fr/contact/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/contact/"
+                href="http://localhost:1313/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/contact/"
+                href="http://localhost:1313/fr/contact/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/categories/creative/</loc>
+    <loc>http://localhost:1313/fr/categories/creative/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/categories/creative/"
+                href="http://localhost:1313/categories/creative/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/categories/creative/"
+                href="http://localhost:1313/fr/categories/creative/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/tags/digital/</loc>
+    <loc>http://localhost:1313/fr/tags/digital/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/tags/digital/"
+                href="http://localhost:1313/tags/digital/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/tags/digital/"
+                href="http://localhost:1313/fr/tags/digital/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/categories/digital/</loc>
+    <loc>http://localhost:1313/fr/categories/digital/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/categories/digital/"
+                href="http://localhost:1313/categories/digital/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/categories/digital/"
+                href="http://localhost:1313/fr/categories/digital/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/</loc>
+    <loc>http://localhost:1313/fr/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/"
+                href="http://localhost:1313/fr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/tags/html/</loc>
+    <loc>http://localhost:1313/fr/tags/html/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/tags/html/"
+                href="http://localhost:1313/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/tags/html/"
+                href="http://localhost:1313/fr/tags/html/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/blog/post.1/</loc>
+    <loc>http://localhost:1313/fr/blog/post.1/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/blog/post.1/"
+                href="http://localhost:1313/blog/post.1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/blog/post.1/"
+                href="http://localhost:1313/fr/blog/post.1/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/categories/innovation/</loc>
+    <loc>http://localhost:1313/fr/categories/innovation/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/categories/innovation/"
+                href="http://localhost:1313/categories/innovation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/categories/innovation/"
+                href="http://localhost:1313/fr/categories/innovation/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/blog/</loc>
+    <loc>http://localhost:1313/fr/blog/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/blog/"
+                href="http://localhost:1313/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/blog/"
+                href="http://localhost:1313/fr/blog/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/tags/marketing/</loc>
+    <loc>http://localhost:1313/fr/tags/marketing/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/tags/marketing/"
+                href="http://localhost:1313/tags/marketing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/tags/marketing/"
+                href="http://localhost:1313/fr/tags/marketing/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/blog/post.2/</loc>
+    <loc>http://localhost:1313/fr/blog/post.2/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/blog/post.2/"
+                href="http://localhost:1313/blog/post.2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/blog/post.2/"
+                href="http://localhost:1313/fr/blog/post.2/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/blog/post.6/</loc>
+    <loc>http://localhost:1313/fr/blog/post.6/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/blog/post.6/"
+                href="http://localhost:1313/blog/post.6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/blog/post.6/"
+                href="http://localhost:1313/fr/blog/post.6/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/pricing/</loc>
+    <loc>http://localhost:1313/fr/pricing/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/pricing/"
+                href="http://localhost:1313/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/pricing/"
+                href="http://localhost:1313/fr/pricing/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/project/</loc>
+    <loc>http://localhost:1313/fr/project/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/project/"
+                href="http://localhost:1313/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/project/"
+                href="http://localhost:1313/fr/project/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/service/</loc>
+    <loc>http://localhost:1313/fr/service/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/service/"
+                href="http://localhost:1313/service/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/service/"
+                href="http://localhost:1313/fr/service/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/blog/post.4/</loc>
+    <loc>http://localhost:1313/fr/blog/post.4/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/blog/post.4/"
+                href="http://localhost:1313/blog/post.4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/blog/post.4/"
+                href="http://localhost:1313/fr/blog/post.4/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/blog/post.3/</loc>
+    <loc>http://localhost:1313/fr/blog/post.3/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/blog/post.3/"
+                href="http://localhost:1313/blog/post.3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/blog/post.3/"
+                href="http://localhost:1313/fr/blog/post.3/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/blog/post.5/</loc>
+    <loc>http://localhost:1313/fr/blog/post.5/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/blog/post.5/"
+                href="http://localhost:1313/blog/post.5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/blog/post.5/"
+                href="http://localhost:1313/fr/blog/post.5/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/tags/</loc>
+    <loc>http://localhost:1313/fr/tags/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/tags/"
+                href="http://localhost:1313/fr/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/tags/web/</loc>
+    <loc>http://localhost:1313/fr/tags/web/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/tags/web/"
+                href="http://localhost:1313/tags/web/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/tags/web/"
+                href="http://localhost:1313/fr/tags/web/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/search/</loc>
+    <loc>http://localhost:1313/fr/search/</loc>
     <lastmod>2019-09-05T15:24:04+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/search/"
+                href="http://localhost:1313/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/search/"
+                href="http://localhost:1313/fr/search/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/author/</loc>
+    <loc>http://localhost:1313/fr/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/author/"
+                href="http://localhost:1313/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/author/"
+                href="http://localhost:1313/fr/author/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/author/john-doe/</loc>
+    <loc>http://localhost:1313/fr/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/author/john-doe/"
+                href="http://localhost:1313/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/author/john-doe/"
+                href="http://localhost:1313/fr/author/john-doe/"
                 />
   </url><url>
-    <loc>http://localhost:1313/enov/site/fr/author/mark-dinn/</loc>
+    <loc>http://localhost:1313/fr/author/mark-dinn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/enov/site/author/mark-dinn/"
+                href="http://localhost:1313/author/mark-dinn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/enov/site/fr/author/mark-dinn/"
+                href="http://localhost:1313/fr/author/mark-dinn/"
                 />
   </url>
 </urlset>

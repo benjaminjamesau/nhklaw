@@ -29,7 +29,7 @@
   <nav class="navbar navbar-expand-lg  main-nav py-3" id="navbar">
     <div class="container">
       <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}/"><img src="{{ .Site.Params.logo | absURL }}"
-          alt="{{ .Site.Title }}" class="img-fluid"></a>
+          alt="{{ .Site.Title }}" class="img-fluid" style="filter: invert(1);"></a>
       <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navigation"
         aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
         <span class="ti-menu"></span>
@@ -37,8 +37,8 @@
 
       <div class="collapse navbar-collapse" id="navigation">
         <ul class="navbar-nav ml-auto text-center text-lg-left">
-          <li class="nav-item active"><a class="nav-link"
-              href="{{ .Site.BaseURL | relLangURL }}/">{{ .Site.Params.Home }}</a></li>
+          <!-- <li class="nav-item active"><a class="nav-link"
+              href="{{ .Site.BaseURL | relLangURL }}/">{{ .Site.Params.Home }}</a></li> -->
           {{ range .Site.Menus.main }}
           {{ if .HasChildren }}
           <li class="nav-item dropdown">
@@ -86,7 +86,7 @@
 
         {{ if .Site.Params.navigation_button.enable }}
         <div class="text-center text-lg-left">
-          <a href="{{ .Site.Params.navigation_button.link | absLangURL }}"
+          <a href="tel:{{ .Site.Params.navigation_button.link }}"
             class="quote-btn ml-4 bg-primary text-white rounded-btn letter-spacing text-uppercase">{{ .Site.Params.navigation_button.label }}
             <i class="ti-angle-right"></i></a>
         </div>

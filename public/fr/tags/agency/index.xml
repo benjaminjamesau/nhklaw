@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agency on Enov Hugo | Html5 Business template</title>
-    <link>http://localhost:1313/enov/site/fr/tags/agency/</link>
+    <link>http://localhost:1313/fr/tags/agency/</link>
     <description>Recent content in Agency on Enov Hugo | Html5 Business template</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 16 Sep 2019 10:30:13 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/enov/site/fr/tags/agency/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/tags/agency/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Improve design with typography?</title>
-      <link>http://localhost:1313/enov/site/fr/blog/post.1/</link>
+      <link>http://localhost:1313/fr/blog/post.1/</link>
       <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
-      <guid>http://localhost:1313/enov/site/fr/blog/post.1/</guid>
+      <guid>http://localhost:1313/fr/blog/post.1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur?</description>
     </item>
     <item>
       <title>Research your competitor result</title>
-      <link>http://localhost:1313/enov/site/fr/blog/post.4/</link>
+      <link>http://localhost:1313/fr/blog/post.4/</link>
       <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
-      <guid>http://localhost:1313/enov/site/fr/blog/post.4/</guid>
+      <guid>http://localhost:1313/fr/blog/post.4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur?</description>
     </item>
     <item>
       <title>Skill to grow business rapidly</title>
-      <link>http://localhost:1313/enov/site/fr/blog/post.3/</link>
+      <link>http://localhost:1313/fr/blog/post.3/</link>
       <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
-      <guid>http://localhost:1313/enov/site/fr/blog/post.3/</guid>
+      <guid>http://localhost:1313/fr/blog/post.3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur?</description>
     </item>
     <item>
       <title>Skill to grow business rapidly</title>
-      <link>http://localhost:1313/enov/site/fr/blog/post.5/</link>
+      <link>http://localhost:1313/fr/blog/post.5/</link>
       <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
-      <guid>http://localhost:1313/enov/site/fr/blog/post.5/</guid>
+      <guid>http://localhost:1313/fr/blog/post.5/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur?</description>
     </item>
   </channel>

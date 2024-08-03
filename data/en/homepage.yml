@@ -55,7 +55,7 @@ about:
 
 ##################### Funfacts ######################################
 funfacts:
-  enable : true
+  enable : false
   funfact_item:
     # fanfacts item loop
     - title : "Project Done"
@@ -144,7 +144,7 @@ team:
 
 ################################### promo video ##########################
 promo_video:
-  enable : true
+  enable : false
   title : "See How we work!"
   video_thumbnail : "images/bg/contact-bg-min-1.jpg"
   video_link : "https://www.youtube.com/watch?v=jrkvirglgaQ"
