@@ -12,7 +12,7 @@ banner:
 
   # border button
   button_border:
-    enable : true
+    enable : false
     label : "Discover Enov"
     link : "service/"
 
@@ -23,8 +23,8 @@ banner_cta:
   content : "Magni perspiciatis sequi, molestias dignissimos numquam placeat eveniet nobis rerum eos, facilis minus, est illo adipisci soluta dolores quisquam, praesentium ab corrupti!"
   button:
     enable : true
-    label : "Learn more"
-    link : "about/"
+    label : "CONTACT US"
+    link : "contact/"
 
 ########################## feature ########################################
 feature:
