@@ -30,6 +30,20 @@
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur?</description>
     </item>
     <item>
+      <title>Property Purchase &amp; Sale Agreements</title>
+      <link>http://localhost:1313/service/property-purchase-sale-agreements/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>http://localhost:1313/service/property-purchase-sale-agreements/</guid>
+      <description>Content for Service 2 goes here.</description>
+    </item>
+    <item>
+      <title>Real Estate Acquisitions &amp; Sales</title>
+      <link>http://localhost:1313/service/real-estate-acquisitions-sales/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>http://localhost:1313/service/real-estate-acquisitions-sales/</guid>
+      <description>Content for Service 1 goes here.</description>
+    </item>
+    <item>
       <title>Research your competitor result</title>
       <link>http://localhost:1313/blog/post.4/</link>
       <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
