@@ -83,7 +83,7 @@ funfacts:
 
 ######################### Service #####################################
 service:
-  enable : true
+  enable : false
   title : "Total Solution in one"
   content : "We provide a wide range of creative services adipisicing elit. Autem maxime rem modi eaque, voluptate. Beatae officiis neque"
   # service item comes from "data/**/service.yml" file
