@@ -3,57 +3,57 @@ services:
   # service item loop
   - title : "Real Estate Acquisitions & Sales"
     icon : "ti-desktop" # themify icon pack: https://themify.me/themify-icons
-    content : "A digital agency isn't here to replace your internal team, we're here to partner"
+    content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
     
   # service item loop
   - title : "Property Purchase & Sale Agreements"
     icon : "ti-layers" # themify icon pack: https://themify.me/themify-icons
-    content : "A digital agency isn't here to replace your internal team, we're here to partner"
+    content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
     
   # service item loop
   - title : "Commercial & Residential Leasing"
     icon : "ti-bar-chart" # themify icon pack: https://themify.me/themify-icons
-    content : "A digital agency isn't here to replace your internal team, we're here to partner"
+    content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
     
   # service item loop
   - title : "Real Estate Financing & Mortgages"
     icon : "ti-vector" # themify icon pack: https://themify.me/themify-icons
-    content : "A digital agency isn't here to replace your internal team, we're here to partner"
+    content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
     
   # service item loop
   - title : "Net-Leased Properties"
     icon : "ti-android" # themify icon pack: https://themify.me/themify-icons
-    content : "A digital agency isn't here to replace your internal team, we're here to partner"
+    content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
     
   # service item loop
   - title : "Refinancing Commercial Properties"
     icon : "ti-pencil-alt" # themify icon pack: https://themify.me/themify-icons
-    content : "A digital agency isn't here to replace your internal team, we're here to partner"
+    content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
     
   # service item loop
   - title : "LLC and Corporation Formation"
     icon : "ti-bar-chart" # themify icon pack: https://themify.me/themify-icons
-    content : "A digital agency isn't here to replace your internal team, we're here to partner"
+    content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
     
   # service item loop
   - title : "Business Agreements"
     icon : "ti-vector" # themify icon pack: https://themify.me/themify-icons
-    content : "A digital agency isn't here to replace your internal team, we're here to partner"
+    content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
     
   # service item loop
   - title : "License/Access Agreements"
     icon : "ti-android" # themify icon pack: https://themify.me/themify-icons
-    content : "A digital agency isn't here to replace your internal team, we're here to partner"
+    content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
 
       # service item loop
   - title : "Residential Lending"
     icon : "ti-android" # themify icon pack: https://themify.me/themify-icons
-    content : "A digital agency isn't here to replace your internal team, we're here to partner"
+    content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
 
       # service item loop
   - title : "Commercial Hard Money Loans"
     icon : "ti-android" # themify icon pack: https://themify.me/themify-icons
-    content : "A digital agency isn't here to replace your internal team, we're here to partner"
+    content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
 
 
 ######################### pricing #####################################
