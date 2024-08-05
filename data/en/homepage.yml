@@ -29,13 +29,22 @@ banner_cta:
 ########################## feature ########################################
 feature:
   enable : True
-  title : "We provide best solution to client with their business problem"
+  title : "Why Choose Us?"
   feature_item:
     # feature item loop
-    - title : "Modern & Responsive design"
+    - title : "Over 25 years of experience in New York real estate law"
       icon : "ti-wand" # icon pack : https://themify.me/themify-icons
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, aspernatur."
       
+    # feature item loop
+    - title : "Personalized attention to every client"
+      icon : "ti-medall" # icon pack : https://themify.me/themify-icons
+      
+    # feature item loop
+    - title : "Awarded licensed company"
+      icon : "ti-medall" # icon pack : https://themify.me/themify-icons
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, aspernatur."
+
     # feature item loop
     - title : "Awarded licensed company"
       icon : "ti-medall" # icon pack : https://themify.me/themify-icons
