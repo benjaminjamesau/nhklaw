@@ -58,12 +58,12 @@ services:
 
 ######################### pricing #####################################
 pricing:
-  enable : true
+  enable : false
   # pricing item comes from "pricing.yml" file
 
 ######################## Service step #################################
 steps:
-  enable : true
+  enable : false
   step:
     # step loop
     - title : "Discuss with us"
