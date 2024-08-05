@@ -1,8 +1,8 @@
 ################################## Banner #################################
 banner:
   enable : true
-  subtitle : "Prepare for new future"
-  title : "Helping customers be their best in the moments that matter."
+  subtitle : "Neil H. Kupferman, Esq., PC "
+  title : "Brooklyn's Premier Real Estate Law Firm. "
 
   # solid button
   button_solid:
