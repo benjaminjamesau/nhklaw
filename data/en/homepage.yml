@@ -41,6 +41,26 @@ feature:
       icon : "ti-medall" # icon pack : https://themify.me/themify-icons
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, aspernatur."
 
+    # feature item loop
+    - title : "Modern & Responsive design"
+      icon : "ti-wand" # icon pack : https://themify.me/themify-icons
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, aspernatur."
+      
+    # feature item loop
+    - title : "Awarded licensed company"
+      icon : "ti-medall" # icon pack : https://themify.me/themify-icons
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, aspernatur."
+
+    # feature item loop
+    - title : "Modern & Responsive design"
+      icon : "ti-wand" # icon pack : https://themify.me/themify-icons
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, aspernatur."
+      
+    # feature item loop
+    - title : "Awarded licensed company"
+      icon : "ti-medall" # icon pack : https://themify.me/themify-icons
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, aspernatur."
+
 ######################## About #######################################
 about:
   enable : true
