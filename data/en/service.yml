@@ -1,47 +1,57 @@
 ########################### services ############################
 services:
   # service item loop
-  - title : "Web development"
+  - title : "Real Estate Acquisitions & Sales"
     icon : "ti-desktop" # themify icon pack: https://themify.me/themify-icons
     content : "A digital agency isn't here to replace your internal team, we're here to partner"
     
   # service item loop
-  - title : "Interface Design"
+  - title : "Property Purchase & Sale Agreements"
     icon : "ti-layers" # themify icon pack: https://themify.me/themify-icons
     content : "A digital agency isn't here to replace your internal team, we're here to partner"
     
   # service item loop
-  - title : "Business Consulting"
+  - title : "Commercial & Residential Leasing"
     icon : "ti-bar-chart" # themify icon pack: https://themify.me/themify-icons
     content : "A digital agency isn't here to replace your internal team, we're here to partner"
     
   # service item loop
-  - title : "Branding"
+  - title : "Real Estate Financing & Mortgages"
     icon : "ti-vector" # themify icon pack: https://themify.me/themify-icons
     content : "A digital agency isn't here to replace your internal team, we're here to partner"
     
   # service item loop
-  - title : "App development"
+  - title : "Net-Leased Properties"
     icon : "ti-android" # themify icon pack: https://themify.me/themify-icons
     content : "A digital agency isn't here to replace your internal team, we're here to partner"
     
   # service item loop
-  - title : "Content creation"
+  - title : "Refinancing Commercial Properties"
     icon : "ti-pencil-alt" # themify icon pack: https://themify.me/themify-icons
     content : "A digital agency isn't here to replace your internal team, we're here to partner"
     
   # service item loop
-  - title : "Business Consulting"
+  - title : "LLC and Corporation Formation"
     icon : "ti-bar-chart" # themify icon pack: https://themify.me/themify-icons
     content : "A digital agency isn't here to replace your internal team, we're here to partner"
     
   # service item loop
-  - title : "Branding"
+  - title : "Business Agreements"
     icon : "ti-vector" # themify icon pack: https://themify.me/themify-icons
     content : "A digital agency isn't here to replace your internal team, we're here to partner"
     
   # service item loop
-  - title : "App development"
+  - title : "License/Access Agreements"
+    icon : "ti-android" # themify icon pack: https://themify.me/themify-icons
+    content : "A digital agency isn't here to replace your internal team, we're here to partner"
+
+      # service item loop
+  - title : "Residential Lending"
+    icon : "ti-android" # themify icon pack: https://themify.me/themify-icons
+    content : "A digital agency isn't here to replace your internal team, we're here to partner"
+
+      # service item loop
+  - title : "Commercial Hard Money Loans"
     icon : "ti-android" # themify icon pack: https://themify.me/themify-icons
     content : "A digital agency isn't here to replace your internal team, we're here to partner"
 
