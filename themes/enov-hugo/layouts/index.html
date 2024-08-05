@@ -42,7 +42,7 @@
       </div>
       {{ if .button.enable }}
       {{ with .button }}
-      <div class="col-lg-4 text-right">
+      <div class="col-lg-4 text-center text-sm-right">
         <a href="{{ .link | absLangURL }}" class="btn btn-white">{{ .label }}</a>
       </div>
       {{ end }}
@@ -63,7 +63,7 @@
 <!-- Section About Start -->
 {{ if $data.homepage.about.enable }}
 {{ with $data.homepage.about }}
-<section class="about">
+<section class="section pt-0 about">
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
