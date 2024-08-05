@@ -109,21 +109,21 @@ weight = 2
 
 [[menu.main]]
 weight = 4
-name = "Servies"
+name = "Services"
 hasChildren = true
 
   [[menu.main]]
-  parent = "Pages"
+  parent = "Services"
   name = "Portfolio"
   URL = "project/"
 
   [[menu.main]]
-  parent = "Pages"
+  parent = "Services"
   name = "Pricing"
   URL = "pricing/"
 
   [[menu.main]]
-  parent = "Pages"
+  parent = "Services"
   name = "Service"
   URL = "service/"
   
