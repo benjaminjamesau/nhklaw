@@ -1,7 +1,7 @@
 ################################## Banner #################################
 banner:
   enable : true
-  subtitle : "Neil H. Kupferman, Esq., PC "
+  subtitle : "Neil H. Kupferman, Esq."
   title : "Brooklyn's Premier Real Estate Law Firm."
 
   # solid button
