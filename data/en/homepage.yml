@@ -32,23 +32,24 @@ feature:
   title : "Why Choose Us?"
   feature_item:
     # feature item loop
-    - ##title : "Over 25 years of experience in New York real estate law"
+    - title : "Over 25 years of experience in New York real estate law"
       icon : "ti-wand" # icon pack : https://themify.me/themify-icons
-      content : "Over 25 years of experience in New York real estate law"
+      content : ""
       
     # feature item loop
     - title : "Personalized attention to every client"
       icon : "ti-medall" # icon pack : https://themify.me/themify-icons
+      content : ""
 
     # feature item loop
     - title : "Awarded licensed company"
       icon : "ti-medall" # icon pack : https://themify.me/themify-icons
-      ## content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, aspernatur."
+      content : ""
 
     # feature item loop
     - title : "Awarded licensed company"
       icon : "ti-medall" # icon pack : https://themify.me/themify-icons
-      ## content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, aspernatur."
+      content : ""
 
 ######################## About #######################################
 about:
