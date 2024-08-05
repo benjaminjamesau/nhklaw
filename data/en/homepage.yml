@@ -34,21 +34,21 @@ feature:
     # feature item loop
     - title : "Over 25 years of experience in New York real estate law"
       icon : "ti-wand" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, aspernatur."
+      ## content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, aspernatur."
       
     # feature item loop
     - title : "Personalized attention to every client"
       icon : "ti-medall" # icon pack : https://themify.me/themify-icons
-      
-    # feature item loop
-    - title : "Awarded licensed company"
-      icon : "ti-medall" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, aspernatur."
 
     # feature item loop
     - title : "Awarded licensed company"
       icon : "ti-medall" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, aspernatur."
+      ## content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, aspernatur."
+
+    # feature item loop
+    - title : "Awarded licensed company"
+      icon : "ti-medall" # icon pack : https://themify.me/themify-icons
+      ## content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, aspernatur."
 
 ######################## About #######################################
 about:
