@@ -158,9 +158,6 @@
                 href="http://localhost:1313/blog/post.1/"
                 />
   </url><url>
-    <loc>http://localhost:1313/service/service1/</loc>
-    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/innovation/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
@@ -264,6 +261,12 @@
                 hreflang="en-us"
                 href="http://localhost:1313/service/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/service/property-purchase-sale-agreements/</loc>
+    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/service/real-estate-acquisitions-sales/</loc>
+    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/post.4/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
