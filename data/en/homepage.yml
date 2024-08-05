@@ -3,7 +3,6 @@ banner:
   enable : true
   subtitle : "Neil H. Kupferman, Esq., PC "
   title : "Brooklyn's Premier Real Estate Law Firm."
-  subtitle : "Experienced Legal Counsel for All Your Real Estate Needs."
 
   # solid button
   button_solid:
@@ -13,7 +12,7 @@ banner:
 
   # border button
   button_border:
-    enable : false
+    enable : true
     label : "Discover Enov"
     link : "service/"
 
