@@ -9,11 +9,46 @@
     <lastBuildDate>Mon, 16 Sep 2019 10:30:13 +0600</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Business Agreements</title>
+      <link>//localhost:1313/service/business-agreements/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>//localhost:1313/service/business-agreements/</guid>
+      <description>Content for Service 8 goes here.</description>
+    </item>
+    <item>
+      <title>Commercial &amp; Residential Leasing</title>
+      <link>//localhost:1313/service/commercial-residential-leasing/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>//localhost:1313/service/commercial-residential-leasing/</guid>
+      <description>Content for Service 3 goes here.</description>
+    </item>
+    <item>
+      <title>Commercial Hard Money Loans</title>
+      <link>//localhost:1313/service/commercial-hard-money-loans/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>//localhost:1313/service/commercial-hard-money-loans/</guid>
+      <description>Content for Service 11 goes here.</description>
+    </item>
+    <item>
       <title>Improve design with typography?</title>
       <link>//localhost:1313/blog/post.1/</link>
       <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
       <guid>//localhost:1313/blog/post.1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur?</description>
+    </item>
+    <item>
+      <title>License/Access Agreements</title>
+      <link>//localhost:1313/service/license-access-agreements/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>//localhost:1313/service/license-access-agreements/</guid>
+      <description>Content for Service 9 goes here.</description>
+    </item>
+    <item>
+      <title>LLC and Corporation Formation</title>
+      <link>//localhost:1313/service/llc-and-corporation-formation/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>//localhost:1313/service/llc-and-corporation-formation/</guid>
+      <description>Content for Service 7 goes here.</description>
     </item>
     <item>
       <title>Marketing strategy your should know</title>
@@ -30,6 +65,13 @@
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur?</description>
     </item>
     <item>
+      <title>Net-Leased Properties</title>
+      <link>//localhost:1313/service/net-leased-properties/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>//localhost:1313/service/net-leased-properties/</guid>
+      <description>Content for Service 5 goes here.</description>
+    </item>
+    <item>
       <title>Property Purchase &amp; Sale Agreements</title>
       <link>//localhost:1313/service/property-purchase-sale-agreements/</link>
       <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
@@ -44,11 +86,32 @@
       <description>Content for Service 1 goes here.</description>
     </item>
     <item>
+      <title>Real Estate Financing &amp; Mortgages</title>
+      <link>//localhost:1313/service/real-estate-financing-mortgages/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>//localhost:1313/service/real-estate-financing-mortgages/</guid>
+      <description>Content for Service 4 goes here.</description>
+    </item>
+    <item>
+      <title>Refinancing Commercial Properties</title>
+      <link>//localhost:1313/service/refinancing-commercial-properties/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>//localhost:1313/service/refinancing-commercial-properties/</guid>
+      <description>Content for Service 6 goes here.</description>
+    </item>
+    <item>
       <title>Research your competitor result</title>
       <link>//localhost:1313/blog/post.4/</link>
       <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
       <guid>//localhost:1313/blog/post.4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur?</description>
+    </item>
+    <item>
+      <title>Residential Lending</title>
+      <link>//localhost:1313/service/residential-lending/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>//localhost:1313/service/residential-lending/</guid>
+      <description>Content for Service 10 goes here.</description>
     </item>
     <item>
       <title>Skill to grow business rapidly</title>
