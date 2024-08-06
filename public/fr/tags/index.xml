@@ -2,60 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Enov Hugo | Html5 Business template</title>
-    <link>http://localhost:1313/fr/tags/</link>
+    <link>//localhost:1313/fr/tags/</link>
     <description>Recent content in Tags on Enov Hugo | Html5 Business template</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 16 Sep 2019 10:30:13 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Agency</title>
-      <link>http://localhost:1313/fr/tags/agency/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/tags/agency/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Branding</title>
-      <link>http://localhost:1313/fr/tags/branding/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/tags/branding/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Company</title>
-      <link>http://localhost:1313/fr/tags/company/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/tags/company/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Digital</title>
-      <link>http://localhost:1313/fr/tags/digital/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/tags/digital/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>HTML</title>
-      <link>http://localhost:1313/fr/tags/html/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/tags/html/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Marketing</title>
-      <link>http://localhost:1313/fr/tags/marketing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/tags/marketing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Web</title>
-      <link>http://localhost:1313/fr/tags/web/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/tags/web/</guid>
-      <description></description>
-    </item>
+    <atom:link href="//localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

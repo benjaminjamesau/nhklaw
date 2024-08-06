@@ -8,7 +8,8 @@
             <img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}" class="img-fluid" style="filter: invert(1);">
           </a>
           <a href="mailto:{{ .Site.Params.email }}" class="text-white">{{ .Site.Params.email }}</a>
-          <p class="mt-4 mb-3">{{ .Site.Params.Address }}</p>
+          <p class="mt-4 mb-0">{{ .Site.Params.Address1 }}</p>
+          <p class="">{{ .Site.Params.Address2 }}</p>
           <a href="tel:{{ .Site.Params.phone }}"><span class="text-white h4">{{ .Site.Params.phone }}</span></a>
         </div>
       </div>

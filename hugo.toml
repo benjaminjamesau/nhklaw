@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 ##baseURL = "https://demo.gethugothemes.com/enov/site/"
-baseURL = "https://nhklaw.pages.dev/"
-##baseURL = "/"
+##baseURL = "https://nhklaw.pages.dev/"
+baseURL = "/"
 title = "Enov Hugo | Html5 Business template"
 theme = "enov-hugo"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
@@ -163,7 +163,8 @@ top_header = true
 description = "This is meta description"
 author = "Themefisher"
 # contact info
-address = "Neil H. Kupferman, Esq., PC 459 6th Ave, Brooklyn, NY 11215, United States"
+address1 = "Neil H. Kupferman, Esq., PC"
+address2 = "459 6th Ave, Brooklyn, NY 11215, United States"
 phone = "+17187683046"
 email = "info@enov.com"
 # contact form action
