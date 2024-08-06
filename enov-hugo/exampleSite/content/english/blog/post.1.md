@@ -7,7 +7,6 @@ bg_image: "images/bg/banner-1.jpg"
 image: "images/blog/1.jpg"
 author: "John Doe"
 categories: ["Innovation"]
-tags: ["Web","Agency"]
 type: "post"
 ---
 

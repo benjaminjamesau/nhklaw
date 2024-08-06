@@ -7,7 +7,6 @@ bg_image: "images/bg/banner-1.jpg"
 image: "images/blog/2.jpg"
 author: "themefisher"
 categories: ["Creative"]
-tags: [ "Company", "HTML"]
 type: "post"
 ---
 

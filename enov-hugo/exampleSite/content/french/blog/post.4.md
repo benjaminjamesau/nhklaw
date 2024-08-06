@@ -7,7 +7,6 @@ bg_image: "images/bg/banner-1.jpg"
 image: "images/blog/4.jpg"
 author: "Mark Dinn"
 categories: ["Innovation"]
-tags: [ "Web", "Agency", "Digital", "Marketing"]
 type: "post"
 ---
 

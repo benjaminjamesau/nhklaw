@@ -7,7 +7,6 @@ bg_image: "images/bg/banner-1.jpg"
 image: "images/blog/2.jpg"
 author: "Mark Dinn"
 categories: ["Creative"]
-tags: ["Web", "Company", "HTML"]
 type: "post"
 ---
 

@@ -7,7 +7,6 @@ bg_image: "images/bg/banner-1.jpg"
 image: "images/blog/3.jpg"
 author: "John Doe"
 categories: ["Digital"]
-tags: ["HTML", "marketing", "branding", "Agency"]
 type: "post"
 ---
 
