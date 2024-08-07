@@ -5,6 +5,9 @@
     <loc>//localhost:1313/about/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/service/business-agreements/</loc>
+    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/categories/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
     <xhtml:link
@@ -17,6 +20,15 @@
                 hreflang="en-us"
                 href="//localhost:1313/categories/"
                 />
+  </url><url>
+    <loc>//localhost:1313/service/commercial-residential-leasing/</loc>
+    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/service/commercial-hard-money-loans/</loc>
+    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/service/commercial-real-estate-financing-attorneys/</loc>
+    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/contact/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
@@ -49,10 +61,19 @@
     <loc>//localhost:1313/blog/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/service/license-access-agreements/</loc>
+    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/service/llc-and-corporation-formation/</loc>
+    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/blog/post.2/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/blog/post.6/</loc>
+    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/service/net-leased-properties/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/pricing/</loc>
@@ -70,7 +91,16 @@
     <loc>//localhost:1313/service/real-estate-acquisitions-sales/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/service/real-estate-financing-mortgages/</loc>
+    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/service/refinancing-commercial-properties/</loc>
+    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/blog/post.4/</loc>
+    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/service/residential-lending/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/blog/post.3/</loc>

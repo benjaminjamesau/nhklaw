@@ -1,6 +1,12 @@
 ########################### services ############################
 services:
   # service item loop
+  - title : "Commercial Real Estate Financing Attorneys"
+    link : commercial-real-estate-financing-attorneys
+    icon : "ti-android"
+    content : "In the bustling world of New York City real estate, commercial financing plays a crucial role..."
+
+  # service item loop
   - title : "Real Estate Acquisitions & Sales"
     link : real-estate-acquisitions-sales
     icon : "ti-desktop" # themify icon pack: https://themify.me/themify-icons
@@ -65,6 +71,8 @@ services:
     link : commercial-hard-money-loans
     icon : "ti-android" # themify icon pack: https://themify.me/themify-icons
     content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
+
+    
 
 
 ######################### pricing #####################################
