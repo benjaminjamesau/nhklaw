@@ -73,7 +73,13 @@
     <loc>//localhost:1313/blog/post.6/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/teams/neil-h-kupferman-esq/</loc>
+    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/service/net-leased-properties/</loc>
+    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/teams/oren-goldhaber-esq/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/pricing/</loc>
@@ -107,6 +113,9 @@
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/blog/post.5/</loc>
+    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/teams/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/search/</loc>

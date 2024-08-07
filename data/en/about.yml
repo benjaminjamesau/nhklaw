@@ -1,60 +1,25 @@
 ############################### About #################################
 about:
   enable: true
-  title : "We create digital ideas that are bigger, bolder, braver and better."
-  content : "We provide consulting services in the area of IFRS and management
-          reporting, helping companies to reach their highest level. We optimize business processes, making them easier."
-  about_item:
-    # about item loop
-    - title : "Our Mission"
-      image : "images/about/bg-1.jpg"
-      content : "llum similique ducimus accusamus laudantium praesentium, impedit quaerat, itaque maxime sunt deleniti  distinctio ."
-          
-    # about item loop
-    - title : "Our Vission"
-      image : "images/about/about.jpg"
-      content : "llum similique ducimus accusamus laudantium praesentium, impedit quaerat, itaque maxime sunt deleniti  distinctio ."
-          
-    # about item loop
-    - title : "Our Approach"
-      image : "images/about/home-8.jpg"
-      content : "llum similique ducimus accusamus laudantium praesentium, impedit quaerat, itaque maxime sunt deleniti  distinctio ."
+  title : ""
+  content : "At Neil H. Kupferman, Esq., PC, we are a trusted boutique law firm focusing on New York real estate law and transactional matters. With our extensive experience and deep understanding of both residential and commercial real estate sectors, we offer personalized, expert legal services tailored to each client's unique needs. Our goal is to provide peace of mind throughout all real estate transactions in New York, ensuring that our clients' interests are protected every step of the way."
+  about_item_title: "Why Choose Neil H. Kupferman, Esq., PC?"
+  about_item_content_primary: "With Neil H. Kupferman, Esq., PC, you can be confident that you have a dedicated advocate on your side who:"
+  about_item_primary:
+    - "Offers direct access to our skilled attorneys"
+    - "Provides quick turnaround for time-sensitive transactions"
+    - "Brings over 25 years of combined experience to your case"
+    - "BExcels in negotiation and strategic problem-solving"
+    - "Focuses exclusively on real estate law to ensure a high level of expertise"
+    - "Represents a diverse clientele, from first-time homebuyers to seasoned investors and corporations"
+  about_item_content_secondary: "Our firm handles a wide range of real estate matters, including:"
+  about_item_secondary:
+  - "Residential and commercial property purchases and sales"
+  - "Refinancing transactions"
+  - "Commercial lease drafting and negotiations"
+  - "Representation of private lenders"
+  - "Environmental Control Board hearings"
+  about_bottom_content: "While we are skilled negotiators, we always strive to resolve matters in the most cost-effective and time-efficient manner possible. Our goal is to spare our clients the time and expense of prolonged legal proceedings while ensuring the best possible outcomes."
 
-##################### Funfacts ######################################
-funfacts:
-  enable : true
-  bg_image : "images/bg/banner-1.jpg"
-  # funfact item comes from "data/**/homepage.yml" file.
-      
-############################# Team ##################################
 team:
   enable: true
-  # team content comes from "data/**/homepage.yml" file
-
-############################ Testimonial ############################
-testimonial:
-  enable : true
-  bg_image : "images/bg/about-modern-img-1.jpg"
-  testimonial_item:
-    # testimonial item loop
-    - name : "Thomas Johnson"
-      designation : "Excutive Director"
-      content: "Neque ipsa consequuntur excepturi quas repudiandae aliquam iste ab laboriosam id facere
-              ducimus odio sed officia provident doloribus explicabo, magni, corrupti sit."
-              
-    # testimonial item loop
-    - name : "Mickel hussy"
-      designation : "Director"
-      content: "Neque ipsa consequuntur excepturi quas repudiandae aliquam iste ab laboriosam id facere
-              ducimus odio sed officia provident doloribus explicabo, magni, corrupti sit."
-              
-    # testimonial item loop
-    - name : "James Watson"
-      designation : "Excutive manager"
-      content: "Neque ipsa consequuntur excepturi quas repudiandae aliquam iste ab laboriosam id facere
-              ducimus odio sed officia provident doloribus explicabo, magni, corrupti sit."
-
-######################### clients logo ##################################
-clients_logo:
-  enable : true
-  # clients logo comes from "config.toml" file.

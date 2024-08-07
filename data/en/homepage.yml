@@ -111,13 +111,14 @@ pricing:
 ############################# Team ##################################
 team:
   enable: true
-  title : "Amazing Team"
-  content : "We provide a wide range of creative services adipisicing elit. Autem maxime rem modi eaque, voluptate. Beatae officiis neque"
+  title : "Our Team"
+  content : ""
   team_member:
     ################### team member loop
-    - name : "Justin hammer"
+    - name : "Neil H. Kupferman, Esq."
       image : "images/team/team-1.jpg"
-      designation : "Project Manager"
+      designation : "Senior Partner"
+      link: "/teams/neil-h-kupferman-esq"
       social:
         # social site loop
         #- icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
@@ -136,9 +137,10 @@ team:
         #  link : "#"
           
     ################### team member loop
-    - name : "Mikel Emily"
+    - name : "Oren Goldhaber, Esq."
       image : "images/team/team-2.jpg"
-      designation : "Project Manager"
+      designation : "Partner"
+      link: "/teams/oren-goldhaber-esq"
       social:
         # social site loop
         #- icon : "ti-facebook" # icon pack : https://themify.me/themify-icons

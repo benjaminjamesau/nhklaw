@@ -72,11 +72,25 @@
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur?</description>
     </item>
     <item>
+      <title>Neil H. Kupferman, Esq.</title>
+      <link>//localhost:1313/teams/neil-h-kupferman-esq/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>//localhost:1313/teams/neil-h-kupferman-esq/</guid>
+      <description>Neil H. Kupferman is the founding partner of our firm, with over 25 years of experience in real estate law.</description>
+    </item>
+    <item>
       <title>Net-Leased Properties</title>
       <link>//localhost:1313/service/net-leased-properties/</link>
       <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
       <guid>//localhost:1313/service/net-leased-properties/</guid>
       <description>Content for Service 5 goes here.</description>
+    </item>
+    <item>
+      <title>Oren Goldhaber, Esq.</title>
+      <link>//localhost:1313/teams/oren-goldhaber-esq/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>//localhost:1313/teams/oren-goldhaber-esq/</guid>
+      <description>Oren Goldhaber joined the firm in 2008 and has since become an integral part of our team.</description>
     </item>
     <item>
       <title>Property Purchase &amp; Sale Agreements</title>
