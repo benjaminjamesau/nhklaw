@@ -6,8 +6,22 @@
     <description>Recent content on Enov Hugo | Html5 Business template</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Sep 2019 10:30:13 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy Policy</title>
+      <link>//localhost:1313/pages/privacy-policy/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/privacy-policy/</guid>
+      <description>Thank you for visiting the website (https://nhklaw.com/) of Neil H. Kupferman, Esq.</description>
+    </item>
+    <item>
+      <title>Terms of Service</title>
+      <link>//localhost:1313/pages/terms-of-service/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/terms-of-service/</guid>
+      <description>Interpretation and Definitions Interpretation The words of which the initial letter is capitalized have meanings defined under the following conditions.</description>
+    </item>
     <item>
       <title>Business Agreements</title>
       <link>//localhost:1313/service/business-agreements/</link>
@@ -42,6 +56,13 @@
       <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
       <guid>//localhost:1313/blog/post.1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur?</description>
+    </item>
+    <item>
+      <title>Leasing Lawyers Brooklyn</title>
+      <link>//localhost:1313/service/leasing-lawyers-brooklyn/</link>
+      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
+      <guid>//localhost:1313/service/leasing-lawyers-brooklyn/</guid>
+      <description>Protect Your Property Rights with Brooklyn&amp;rsquo;s Experienced Leasing Lawyers Don&amp;rsquo;t Let Lease Disputes Cost You - Get Knowledgeable Legal Guidance Today Are you a landlord or tenant facing complex leasing issues in Brooklyn?</description>
     </item>
     <item>
       <title>License/Access Agreements</title>
@@ -93,18 +114,11 @@
       <description>Oren Goldhaber joined the firm in 2008 and has since become an integral part of our team.</description>
     </item>
     <item>
-      <title>Property Purchase &amp; Sale Agreements</title>
-      <link>//localhost:1313/service/property-purchase-sale-agreements/</link>
-      <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
-      <guid>//localhost:1313/service/property-purchase-sale-agreements/</guid>
-      <description>Content for Service 2 goes here.</description>
-    </item>
-    <item>
       <title>Real Estate Acquisitions &amp; Sales</title>
       <link>//localhost:1313/service/real-estate-acquisitions-sales/</link>
       <pubDate>Mon, 16 Sep 2019 10:30:13 +0600</pubDate>
       <guid>//localhost:1313/service/real-estate-acquisitions-sales/</guid>
-      <description>Content for Service 1 goes here.</description>
+      <description></description>
     </item>
     <item>
       <title>Real Estate Financing &amp; Mortgages</title>
