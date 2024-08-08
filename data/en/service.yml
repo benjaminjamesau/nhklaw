@@ -7,7 +7,7 @@ services:
     content : "In the bustling world of New York City real estate, commercial financing plays a crucial role..."
   
   # service item loop
-  - title : "Leasing Lawyers Brooklyn"
+  - title : "Leasing Lawyers"
     link : leasing-lawyers-brooklyn
     icon : "ti-vector"
     content : "Are you a landlord or tenant facing complex leasing issues in Brooklyn? Don't risk your property..."
