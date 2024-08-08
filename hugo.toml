@@ -124,7 +124,7 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Services"
-  name = "Real Estate Financing & Mortgages"
+  name = "Financing & Mortgages"
   URL = "service/real-estate-financing-mortgages/"
   
 [[menu.main]]
