@@ -114,18 +114,18 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Services"
-  name = "Leasing Lawyers Brooklyn"
+  name = "Leasing Lawyers"
   URL = "leasing-lawyers-brooklyn/"
 
   [[menu.main]]
   parent = "Services"
-  name = "Pricing"
-  URL = "pricing/"
+  name = "Residential Lending"
+  URL = "residential-lending/"
 
   [[menu.main]]
   parent = "Services"
-  name = "Service"
-  URL = "service/"
+  name = "Real Estate Financing & Mortgages"
+  URL = "real-estate-financing-mortgages/"
   
 [[menu.main]]
 name = "Contact"
