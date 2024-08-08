@@ -114,8 +114,8 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Services"
-  name = "Portfolio"
-  URL = "project/"
+  name = "Leasing Lawyers Brooklyn"
+  URL = "leasing-lawyers-brooklyn/"
 
   [[menu.main]]
   parent = "Services"
