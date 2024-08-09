@@ -4,6 +4,7 @@ date: 2019-09-16T10:30:13+06:00
 type: "teams"
 layout: "teams/single"
 slug: "oren-goldhaber-esq"
+image : "images/team/team-2.jpg"
 ---
 
 Oren Goldhaber joined the firm in 2008 and has since become an integral part of our team. He concentrates on commercial and residential sales, purchases, and refinances. Oren also brings extensive experience in representing private lenders, drafting and negotiating commercial leases, and handling Environmental Control Board hearings.

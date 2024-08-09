@@ -4,7 +4,14 @@
 
 <section class="section team-detail">
     <div class="container">
-        {{ .Content }}
+        <div class="row">
+            <div class="col-sm-8">
+                {{ .Content }}
+            </div>
+            <div class="col-sm-4">
+                <img src="{{ .Params.image | absURL }}" alt="">
+            </div>
+        </div>
     </div>
 </section>
 
