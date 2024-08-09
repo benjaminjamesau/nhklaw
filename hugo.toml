@@ -139,24 +139,19 @@ weight = 2
 
 # footer menu
 [[menu.footer]]
-name = "service"
+name = "Pending"
 URL = "service/"
 weight = 1
 
 [[menu.footer]]
-name = "about"
+name = "Pending"
 URL = "about/"
 weight = 2
 
 [[menu.footer]]
-name = "blog"
+name = "Blog"
 URL = "blog/"
 weight = 3
-
-[[menu.footer]]
-name = "pricing"
-URL = "pricing/"
-weight = 4
 
 
 #################### default parameters ################################
