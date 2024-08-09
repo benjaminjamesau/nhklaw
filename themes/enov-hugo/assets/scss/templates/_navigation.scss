@@ -205,12 +205,11 @@ a.bg-primary:hover{
   .navbar-collapse{
      text-align: center;
      padding: 20px;
-
-     &.collapse.show {
-        &.dropdown-menu {
-          width: 100%;
-        }
-     }
+  }
+  .navbar-collapse.collapse.show {
+    .dropdown-menu {
+      width: 100%;
+    }
   }
    .header-top .header-top-info a {
       margin-left: 0px;
