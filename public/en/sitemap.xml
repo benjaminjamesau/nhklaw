@@ -55,31 +55,19 @@
     <loc>//localhost:1313/contact/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/creative/</loc>
-    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/digital/</loc>
-    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blog/post.1/</loc>
-    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/innovation/</loc>
-    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/blog/</loc>
+    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/law/</loc>
+    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/service/leasing-lawyers-brooklyn/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/service/license-access-agreements/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/service/llc-and-corporation-formation/</loc>
-    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blog/post.2/</loc>
-    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blog/post.6/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/teams/neil-h-kupferman-esq/</loc>
@@ -100,7 +88,22 @@
     <loc>//localhost:1313/service/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/service/property-purchase-sale-agreements/</loc>
+    <loc>//localhost:1313/blog/post.1/</loc>
+    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/post.2/</loc>
+    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/post.3/</loc>
+    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/post.4/</loc>
+    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/post.5/</loc>
+    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/post.6/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/service/real-estate-acquisitions-sales/</loc>
@@ -109,19 +112,13 @@
     <loc>//localhost:1313/service/real-estate-financing-mortgages/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/categories/real-estate-law/</loc>
+    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/service/refinancing-commercial-properties/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/post.4/</loc>
-    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/service/residential-lending/</loc>
-    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blog/post.3/</loc>
-    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blog/post.5/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/teams/</loc>

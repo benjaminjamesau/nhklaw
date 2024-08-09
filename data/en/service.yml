@@ -3,25 +3,25 @@ services:
   # service item loop
   - title : "Commercial Real Estate Financing Attorneys"
     link : commercial-real-estate-financing-attorneys
-    icon : "ti-android"
+    icon : "ti-money"
     content : "In the bustling world of New York City real estate, commercial financing plays a crucial role..."
   
   # service item loop
   - title : "Leasing Lawyers"
     link : leasing-lawyers-brooklyn
-    icon : "ti-vector"
+    icon : "ti-user"
     content : "Are you a landlord or tenant facing complex leasing issues in Brooklyn? Don't risk your property..."
 
   # service item loop
   - title : "Real Estate Acquisitions & Sales"
     link : real-estate-acquisitions-sales
-    icon : "ti-desktop" # themify icon pack: https://themify.me/themify-icons
+    icon : "ti-check-box" # themify icon pack: https://themify.me/themify-icons
     content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
     
   # service item loop
   - title : "Property Purchase & Sale Agreements"
     link : property-purchase-sale-agreements
-    icon : "ti-layers" # themify icon pack: https://themify.me/themify-icons
+    icon : "ti-receipt" # themify icon pack: https://themify.me/themify-icons
     content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
     
   # service item loop
@@ -39,7 +39,7 @@ services:
   # service item loop
   - title : "Net-Leased Properties"
     link : net-leased-properties
-    icon : "ti-android" # themify icon pack: https://themify.me/themify-icons
+    icon : "ti-files" # themify icon pack: https://themify.me/themify-icons
     content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
     
   # service item loop
@@ -51,31 +51,31 @@ services:
   # service item loop
   - title : "LLC and Corporation Formation"
     link : llc-and-corporation-formation
-    icon : "ti-bar-chart" # themify icon pack: https://themify.me/themify-icons
+    icon : "ti-layout-grid3" # themify icon pack: https://themify.me/themify-icons
     content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
     
   # service item loop
   - title : "Business Agreements"
     link : business-agreements
-    icon : "ti-vector" # themify icon pack: https://themify.me/themify-icons
+    icon : "ti-write" # themify icon pack: https://themify.me/themify-icons
     content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
     
   # service item loop
   - title : "License/Access Agreements"
     link : license-Access-agreements
-    icon : "ti-android" # themify icon pack: https://themify.me/themify-icons
+    icon : "ti-lock" # themify icon pack: https://themify.me/themify-icons
     content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
 
       # service item loop
   - title : "Residential Lending"
     link : residential-lending
-    icon : "ti-android" # themify icon pack: https://themify.me/themify-icons
+    icon : "ti-crown" # themify icon pack: https://themify.me/themify-icons
     content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
 
       # service item loop
   - title : "Commercial Hard Money Loans"
     link : commercial-hard-money-loans
-    icon : "ti-android" # themify icon pack: https://themify.me/themify-icons
+    icon : "ti-credit-card" # themify icon pack: https://themify.me/themify-icons
     content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
 
     
