@@ -144,8 +144,8 @@ URL = "service/"
 weight = 1
 
 [[menu.footer]]
-name = "Pending"
-URL = "about/"
+name = "Area Served"
+URL = "area-served/"
 weight = 2
 
 [[menu.footer]]
