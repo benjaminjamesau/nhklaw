@@ -104,7 +104,7 @@
   position: absolute !important;
   left: 0px;
   top: 100%;
-  width: 240px;
+  width: auto;
   z-index: 100;
   display: block !important;
   margin: 0 auto;
@@ -203,9 +203,15 @@ a.bg-primary:hover{
 
 @include mobile{
   .navbar-collapse{
-     text-align: center;
-     padding: 20px;
-  }
+    text-align: center;
+    padding: 20px;
+
+    &.collapse.show {
+       &.dropdown-menu {
+         width: 100%;
+       }
+    }
+ }
    .header-top .header-top-info a {
       margin-left: 0px;
   }

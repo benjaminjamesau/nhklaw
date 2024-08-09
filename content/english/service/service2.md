@@ -31,6 +31,8 @@ Our attorneys have extensive experience serving Brooklyn property owners and ten
 - **Personal Attention:** You'll work directly with our experienced attorneys
 - **Responsive Service:** We strive to return all calls promptly
 
+![Alt txt](/images/about/home-8.jpg)
+
 ##### What Some of Our Clients Have Shared
 "Neil and his team provided valuable assistance when I faced a lease dispute. They worked diligently and helped me reach a resolution." - S.T., Brooklyn Business Owner
 
