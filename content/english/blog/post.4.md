@@ -6,7 +6,7 @@ description: "this is meta description"
 bg_image: "images/bg/banner-1.jpg"
 image: "images/blog/4.jpg"
 author: "Mark Dinn"
-categories: ["Innovation"]
+categories: ["Real Estate Law"]
 type: "post"
 ---
 

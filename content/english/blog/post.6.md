@@ -6,7 +6,7 @@ description: "this is meta description"
 bg_image: "images/bg/banner-1.jpg"
 image: "images/blog/2.jpg"
 author: "themefisher"
-categories: ["Creative"]
+categories: ["Real Estate Law"]
 type: "post"
 ---
 
