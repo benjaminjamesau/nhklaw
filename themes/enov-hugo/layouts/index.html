@@ -12,7 +12,7 @@
         <div class="text-center">
           <span class="d-block mb-3 text-uppercase">{{ .subtitle | markdownify }}</span>
           <h1 class="animated fadeInUp mb-5 text-white">{{ .title | markdownify }}</h1>
-          <p class="lead text-white-50">{{ .content | markdownify }}</p>
+          <p class="text-white">{{ .content | markdownify }}</p>
           {{ if .button_solid.enable }}
           {{ with .button_solid }}
           <a href="{{ .link | absLangURL }}" class="btn btn-main animated fadeInUp mr-1 mb-2 mb-lg-0">{{ .label }}<i class="btn-icon ti-angle-right ml-2"></i></a>
