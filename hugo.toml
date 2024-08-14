@@ -129,7 +129,7 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Services"
-  name = "Refinancing Commercial Propertie tieing how long this can be?s"
+  name = "Refinancing Commercial Propertie tieing how long?"
   URL = "service/refinancing-commercial-properties/"
 
 
