@@ -3,6 +3,7 @@ title: "Terms of Service"
 date: 2024-08-08T00:00:00Z
 layout: "page"
 slug: "terms-of-service"
+bg_image: "images/pages/1.jpg"
 ---
 
 ### Interpretation and Definitions
