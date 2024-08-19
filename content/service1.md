@@ -4,7 +4,7 @@ date: 2019-09-16T10:30:13+06:00
 type: "service"
 layout: "service/single"
 slug: "commercial-real-estate-financing-attorneys"
-bg_image: "/images/blog/3.jpg"
+bg_image: "/images/services/brooklyn-real-financing-commercial-estate-attorneys-brooklyn.jpg"
 ---
 
 
