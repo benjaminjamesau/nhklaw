@@ -35,27 +35,27 @@ feature:
   feature_item:
     # feature item loop
     - title : "Over 25 years of experience in New York real estate law"
-      icon : "ti-wand" # icon pack : https://themify.me/themify-icons
+      icon : "ti-bar-chart" # icon pack : https://themify.me/themify-icons
       content : " "
       
     # feature item loop
     - title : "Personalized attention to every client"
-      icon : "ti-medall" # icon pack : https://themify.me/themify-icons
+      icon : "ti-user" # icon pack : https://themify.me/themify-icons
       content : ""
 
     # feature item loop
     - title : "Comprehensive knowledge of Brooklyn's real estate market"
-      icon : "ti-medall" # icon pack : https://themify.me/themify-icons
+      icon : "ti-pencil-alt" # icon pack : https://themify.me/themify-icons
       content : ""
 
     # feature item loop
     - title : "Proven track record of successful transactions"
-      icon : "ti-medall" # icon pack : https://themify.me/themify-icons
+      icon : "ti-money" # icon pack : https://themify.me/themify-icons
       content : ""
 
     # feature item loop
     - title : "Efficient and cost-effective legal solutions"
-      icon : "ti-medall" # icon pack : https://themify.me/themify-icons
+      icon : "ti-check-box" # icon pack : https://themify.me/themify-icons
       content : ""
 
 ######################## About #######################################
