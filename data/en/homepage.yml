@@ -1,7 +1,7 @@
 ################################## Banner #################################
 banner:
   enable : true
-  subtitle : "Neil H. Kupferman, Esq. & Oren Goldhaber"
+  subtitle : "Neil H. Kupferman & Oren Goldhaber"
   title : "Brooklyn's Premier Real Estate Law Firm."
   content: "Serving clients across the Tristate area, including all five boroughs of New York City (Manhattan, Brooklyn, Queens, The Bronx, and Staten Island), as well as Long Island, Westchester County, The Hamptons in New York, New Jersey, and Connecticut."
 
