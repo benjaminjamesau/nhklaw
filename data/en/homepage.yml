@@ -31,6 +31,7 @@ banner_cta:
 feature:
   enable : True
   title : "Why Choose Us?"
+  content : "testing"
   ##image: "/images/blog/3.jpg"
   feature_item:
     # feature item loop
