@@ -3,6 +3,7 @@ title: "About Us"
 date: 2019-09-16T10:30:13+06:00
 type: "about"
 layout: "about/list"
+bg_image: "/images/about/1.jpg"
 ---
 
 # Our Office
