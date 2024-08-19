@@ -3,6 +3,7 @@ title: "Privacy Policy"
 date: 2024-08-08T00:00:00Z
 layout: "page"
 slug: "privacy-policy"
+bg_image: "images/pages/1.jpg"
 ---
 
 Thank you for visiting the website (https://nhklaw.com/) of Neil H. Kupferman, Esq., PC. Please read these Terms of Use and our Privacy Policy, which, as may be modified from time to time, govern its use. By using this website, you are knowingly and willingly agreeing to be bound by these Terms of Use.
