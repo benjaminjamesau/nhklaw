@@ -7,9 +7,6 @@ slug: "commercial-leasing"
 bg_image: "/images/services/3.jpg"
 ---
 
-
-# **Commercial Leasing Attorneys in Brooklyn: Protect Your Business Interests**
-
 ## **Navigate Complex Lease Agreements with Experienced Legal Guidance**
 
 Are you a business owner in Brooklyn dealing with the complexities of commercial leases? Many entrepreneurs find themselves struggling with unfavorable agreements that can impact their bottom line.
@@ -30,7 +27,7 @@ At Neil H. Kupferman, Esq., PC, we provide legal guidance to help Brooklyn busin
 
 ## **Protect Your Business with Informed Lease Decisions**
 
-"I have known Niel Kupferman for the better part of of two decades, he’s represented me on numerous occasions,  first thing you’ll discover is Niel’s office is a small family oriented office where you feel like you’re part of his family and you are treated as such. Mr. Kupferman treats all transaction’s equal weather it’s his own Family portfolio or clients and does so with extreme care and diligence. I only trust them to represent my family’s real estate interests." 
+*"I have known Niel Kupferman for the better part of of two decades, he’s represented me on numerous occasions,  first thing you’ll discover is Niel’s office is a small family oriented office where you feel like you’re part of his family and you are treated as such. Mr. Kupferman treats all transaction’s equal weather it’s his own Family portfolio or clients and does so with extreme care and diligence. I only trust them to represent my family’s real estate interests." 
 
 \- Jody Sica
 
@@ -59,9 +56,7 @@ Don't let uncertainty about your lease agreement impact your business. Schedule 
 
 3. Overview of possible next steps
 
-\[**Schedule Your Consultation**]
-
-Call (718) 768-3046 or Email contact\@nhklaw\.com today.
+Call (718) 768-3046 or email contact\@nhklaw\.com today.
 
 **Why Seek Legal Guidance for Your Commercial Lease?**
 
@@ -70,11 +65,11 @@ Commercial leases often contain complex clauses that can significantly impact yo
 
 ### **Client Feedback:**
 
-"Oren did my commercial lease and it was by far the smoothest real estate transaction I have ever done. He was extremely responsive and efficient and quick and I will definitely work with him again."
+*"Oren did my commercial lease and it was by far the smoothest real estate transaction I have ever done. He was extremely responsive and efficient and quick and I will definitely work with him again."
 
  - Hannah K
 
-"A pleasure to work with! Great communication, on top of every detail to make sure everything is done accurately. Would highly recommend and will be using them again" 
+*"A pleasure to work with! Great communication, on top of every detail to make sure everything is done accurately. Would highly recommend and will be using them again" 
 
 \- Yossi Kopfstein
 
@@ -83,7 +78,7 @@ Commercial leases often contain complex clauses that can significantly impact yo
 
 You've invested time and effort into your Brooklyn business. Consider seeking legal guidance to help you navigate your commercial lease negotiations.
 
-{{< cta title="Experienced Legal Counsel for All Your LCommercial Leasing Needs" 
+{{< cta title="Experienced Legal Counsel for All Your Commercial Leasing Needs" 
   description="At Neil H. Kupferman, Esq., PC, we understand that commercial Leasing can be complex and overwhelming. Our dedicated team of attorneys is here to guide you through every step of the process, ensuring your interests are protected and your goals are achieved."
   button_text= "Contact Us"
   button_link= "/contact/" >}}
