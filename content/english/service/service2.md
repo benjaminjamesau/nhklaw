@@ -3,7 +3,7 @@ title: "Leasing Lawyers Brooklyn"
 date: 2019-09-16T10:30:13+06:00
 type: "service"
 layout: "service/single"
-slug: "leasing-lawyers-brooklyn"
+slug: "leasing-lawyers"
 bg_image: "/images/services/2.jpg"
 ---
 
@@ -47,7 +47,7 @@ Leasing issues can be complex. Consider getting legal advice to understand your 
 #### Call (718) 555-1234 for a Consultation
 Or fill out our contact form to schedule a meeting with one of our experienced Brooklyn attorneys. We'll review your situation and discuss potential legal approaches.
 
-#### Serving Brooklyn's Legal Needs Since [2024]
+#### Serving Brooklyn's Legal Needs
 Neil H. Kupferman, Esq., PC has been assisting Brooklyn property owners and tenants for many years. We are committed to ethical practice and adherence to New York State Bar rules.
 
 {{< cta title="Experienced Legal Counsel for All Your Real Estate Needs" 
