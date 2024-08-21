@@ -62,7 +62,7 @@ feature:
 about:
   enable : true
   image : "images/about/home-8.jpg"
-  title : "Protect Your Property Interests<br> with Experienced Legal Counsel"
+  title : "Protect Your Property Interests with Experienced Legal Counsel"
   content : "Are you buying, selling, or dealing with real estate issues in Brooklyn? Don't navigate the complex world of New York property law alone. Neil H. Kupferman, Esq., PC provides knowledgeable legal guidance to safeguard your real estate investments."
   button:
     enable : true
@@ -103,6 +103,17 @@ service:
   title : "Our Services:"
   content : "We provide a wide range of legal services"
   # service item comes from "data/**/service.yml" file
+
+######################## About #######################################
+about:
+  enable : true
+  title : "About Neil H. Kupferman, Esq., PC"
+  content : "With over two decades of experience practicing real estate law in Brooklyn, Neil Kupferman has the knowledge to handle even the most complex property matters. Our boutique firm provides personalized attention and strategic counsel to protect your real estate interests."
+  image : "images/about/home-8.jpg"
+  button:
+    enable : true
+    label : "Contact Us"
+    link : "contact/"
 
 ######################### pricing #####################################
 pricing:
