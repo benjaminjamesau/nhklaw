@@ -24,8 +24,10 @@ At Neil H. Kupferman, Esq., PC, we understand the challenges of starting and run
 
 Our experienced attorneys will work to craft customized documents that aim to:
 
-✓ Clearly define ownership rights and responsibilities ✓ Help protect your personal assets from certain business liabilities\
-&#x20;✓ Establish decision-making processes to potentially avoid future conflicts ✓ Assist in compliance with applicable New York state laws
+✓ Clearly define ownership rights and responsibilities 
+✓ Help protect your personal assets from certain business liabilities\
+✓ Establish decision-making processes to potentially avoid future conflicts 
+✓ Assist in compliance with applicable New York state laws
 
 
 ## **Why Your Brooklyn Business May Benefit from Professional Legal Agreements**
@@ -67,8 +69,6 @@ Be cautious of relying solely on DIY legal documents. Consider these potential r
 ## **Learn More About Protecting Your Business - Schedule a Consultation**
 
 Consider getting professional guidance to create agreements that may help protect and support your Brooklyn business.
-
-**Call (718) 555-1234 or fill out our contact form to schedule a consultation.**
 
 {{< cta title="Experienced Legal Counsel for All Your LLC, Corporation, Partnership Agreements Needs" 
   description="At Neil H. Kupferman, Esq., PC, we understand that LLC, corporation, partnership agreements can be complex and overwhelming. Our dedicated team of attorneys is here to guide you through every step of the process, ensuring your interests are protected and your goals are achieved."
