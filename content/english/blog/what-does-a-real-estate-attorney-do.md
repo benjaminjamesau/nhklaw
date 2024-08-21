@@ -73,8 +73,7 @@ New York follows the practice of "table closings." Your attorney will:
 
 - Ensure proper transfer of funds and property ownership
 
-{{< cta title="Experienced Legal Counsel for All Your Real Estate Law Needs" 
-  description="At Neil H. Kupferman, Esq., PC, we understand that real estate transactions can be complex and overwhelming. Our dedicated team of attorneys is here to guide you through every step of the process, ensuring your interests are protected and your goals are achieved."
+{{< cta title="Contact Neil H. Kupferman, Esq., PC for All Your Real Estate Law Needs" 
   button_text= "Contact Us"
   button_link= "/contact/" >}}
 
@@ -172,8 +171,7 @@ Consider the role of the lender in the transaction.
 
 - Specialization in areas relevant to your transaction (e.g., co-ops, commercial real estate)
 
-{{< cta title="Experienced Legal Counsel for All Your Real Estate Law Needs" 
-  description="At Neil H. Kupferman, Esq., PC, we understand that real estate transactions can be complex and overwhelming. Our dedicated team of attorneys is here to guide you through every step of the process, ensuring your interests are protected and your goals are achieved."
+{{< cta title="Contact Neil H. Kupferman, Esq., PC for All Your Real Estate Law Needs" 
   button_text= "Contact Us"
   button_link= "/contact/" >}}
 
