@@ -134,7 +134,7 @@ URL = "about/"
 weight = 2
 
 [[menu.main]]
-name = "Contact"
+name = "Contact test"
 URL = "contact/"
 weight = 2
 
