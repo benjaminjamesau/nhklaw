@@ -53,7 +53,7 @@ Real estate attorneys in New York have extensive responsibilities throughout the
 - Advising on **rent control and rent stabilization** matters
 - Ensuring compliance with **New York disclosure requirements** Legal advice is crucial for sellers navigating the process.
 
-{{< cta title="Experienced Legal Counsel for All Your Real Estate Law Needs" 
+{{< cta title="Contact Neil H. Kupferman, Esq., PC Experienced Legal Counsel for All Your Real Estate Law Needs" 
   button_text= "Contact Us"
   button_link= "/contact/" >}}
 
