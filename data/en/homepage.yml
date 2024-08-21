@@ -67,8 +67,8 @@ about:
             to reach their highest level. We optimize business processes, making them easier."
   button:
     enable : true
-    label : "Get started"
-    link : "pricing/"
+    label : "Contact Us"
+    link : "contact/"
 
 ##################### Funfacts ######################################
 funfacts:
