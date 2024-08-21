@@ -1,7 +1,7 @@
 ---
 title: "Pending Aticle 6?"
 date: 2019-09-16T10:30:13+06:00
-draft: treu
+draft: true
 description: "this is meta description"
 bg_image: "images/blog/blog_main.jpg"
 image: "images/blog/2.jpg"
