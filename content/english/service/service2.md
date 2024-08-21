@@ -54,5 +54,3 @@ Neil H. Kupferman, Esq., PC has been assisting Brooklyn property owners and tena
   description="At Neil H. Kupferman, Esq., PC, we understand that real estate transactions can be complex and overwhelming. Our dedicated team of attorneys is here to guide you through every step of the process, ensuring your interests are protected and your goals are achieved."
   button_text= "Contact Us"
   button_link= "/contact/" >}}
-
-*The content on this page is for informational purposes only and does not constitute legal advice. No attorney-client relationship is formed until a formal agreement is signed.*
