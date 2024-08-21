@@ -106,11 +106,9 @@ _Note: Past results do not guarantee future outcomes. Each case is unique._
 
 Get expert guidance on forming your LLC or corporation with Neil H. Kupferman, Esq., PC.
 
-{{< cta title="Experienced Legal Counsel for All Your Real Estate Needs" 
+{{< cta title="Experienced Legal Counsel for All Your LLC Formation Needs" 
   description="At Neil H. Kupferman, Esq., PC, we understand that LLC formation can be complex and overwhelming. Our dedicated team of attorneys is here to guide you through every step of the process, ensuring your interests are protected and your goals are achieved."
   button_text= "Contact Us"
   button_link= "/contact/" >}}
-
-_Protect your dreams. Build your legacy. Start your Brooklyn business right._
 
 
