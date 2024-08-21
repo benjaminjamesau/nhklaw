@@ -110,6 +110,9 @@ Several factors can impact how much you'll pay for a real estate attorney in New
 - **Highly experienced** attorneys often charge more
 - **Specialized expertise** in areas like co-op law or commercial real estate may come at a premium
 
+{{< cta title="Contact Neil H. Kupferman, Esq., PC Experienced Legal Counsel for All Your Real Estate Law Needs" 
+  button_text= "Contact Us"
+  button_link= "/contact/" >}}
 
 ## New York-Specific Situations Requiring Legal Representation
 
@@ -146,6 +149,9 @@ To ensure you're getting the best value for your money, follow these tips when h
 3. **Interview multiple candidates**: Don't settle for the first option
 4. **Discuss fees upfront**: Understand their billing structure and any New York-specific fees
 
+{{< cta title="Contact Neil H. Kupferman, Esq., PC Experienced Legal Counsel for All Your Real Estate Law Needs" 
+  button_text= "Contact Us"
+  button_link= "/contact/" >}}
 
 ## Frequently Asked Questions About Real Estate Attorney Costs in New York
 
