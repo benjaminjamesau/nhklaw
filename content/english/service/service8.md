@@ -26,8 +26,11 @@ At Neil H. Kupferman, Esq., PC, we understand the challenges of starting and run
 Our experienced attorneys will work to craft customized documents that aim to:
 
 ✓ Clearly define ownership rights and responsibilities 
+
 ✓ Help protect your personal assets from certain business liabilities
+
 ✓ Establish decision-making processes to potentially avoid future conflicts 
+
 ✓ Assist in compliance with applicable New York state laws
 
 
