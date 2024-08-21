@@ -1,11 +1,10 @@
 ---
 title: "What Does a Real Estate Attorney Do?"
-date: 2024-08-21T10:30:13+06:00
 draft: false
 description: "Discover the crucial role of real estate attorneys in property transactions. Learn how they protect your interests, handle complex legal issues, and ensure smooth closings. Expert insights inside!"
 bg_image: "images/blog/blog_main.jpg"
 image: "images/blog/1.jpg"
-categories: ["Law"]
+categories: ["Real Estate Law"]
 type: "post"
 ---
 
