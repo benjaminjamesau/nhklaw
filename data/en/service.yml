@@ -72,11 +72,7 @@ services:
     icon : "ti-crown" # themify icon pack: https://themify.me/themify-icons
     content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
 
-      # service item loop
-  - title : "Commercial Hard Money Loans"
-    link : commercial-hard-money-loans
-    icon : "ti-credit-card" # themify icon pack: https://themify.me/themify-icons
-    content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
+
 
     
 
