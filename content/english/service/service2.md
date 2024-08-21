@@ -34,13 +34,6 @@ Our attorneys have extensive experience serving Brooklyn property owners and ten
 
 ![Alt txt](/images/about/home-8.jpg)
 
-##### What Some of Our Clients Have Shared
-"Neil and his team provided valuable assistance when I faced a lease dispute. They worked diligently and helped me reach a resolution." - S.T., Brooklyn Business Owner
-
-"As a property owner, I appreciate Kupferman's thorough approach to drafting leases. Their responsiveness and knowledge have been beneficial." - M.R., Brooklyn Property Manager
-
-*Disclaimer: Prior results do not guarantee a similar outcome. Testimonials do not reflect the experience of all clients. Full names withheld to protect client privacy.*
-
 ##### Seek Legal Guidance Early
 Leasing issues can be complex. Consider getting legal advice to understand your rights and options.
 
