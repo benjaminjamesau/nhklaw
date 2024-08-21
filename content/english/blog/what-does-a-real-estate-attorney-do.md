@@ -197,3 +197,8 @@ In New York's intricate real estate landscape, having an experienced attorney by
 Remember, when it comes to one of the most significant financial decisions of your life, especially in a market as complex as New York's, professional legal guidance is essential to protect your interests and ensure a successful transaction.
 
 **For expert legal guidance tailored to your unique New York real estate needs, contact [Neil H. Kupferman, Esq., PC,](/) a knowledgeable [real estate lawyer](/), at +17187683046. Our experienced team is ready to assist you with all aspects of your property transaction, ensuring your interests are protected every step of the way.**
+
+{{< cta title="Experienced Legal Counsel for All Your Real Estate Law Needs" 
+  description="At Neil H. Kupferman, Esq., PC, we understand that real estate transactions can be complex and overwhelming. Our dedicated team of attorneys is here to guide you through every step of the process, ensuring your interests are protected and your goals are achieved."
+  button_text= "Contact Us"
+  button_link= "/contact/" >}}
