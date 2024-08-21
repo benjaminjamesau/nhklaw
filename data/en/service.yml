@@ -4,19 +4,19 @@ services:
   - title : "Business Agreements"
     link : business-agreements
     icon : "ti-write" # themify icon pack: https://themify.me/themify-icons
-    content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
+    content : "Are you a Brooklyn entrepreneur concerned about the legal foundation of your business?..."
 
       # service item loop
   - title : "LLC and Corporation Formation"
     link : llc-and-corporation-formation
     icon : "ti-layout-grid3" # themify icon pack: https://themify.me/themify-icons
-    content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
+    content : "Are you ready to turn your business idea into reality? Don't let legal complexities hold..."
 
     # service item loop
   - title : "Commercial Leasing"
     link : commercial-leasing
     icon : "ti-bar-chart" # themify icon pack: https://themify.me/themify-icons
-    content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
+    content : "Are you a business owner in Brooklyn dealing with the complexities of commercial leases? Many..."
 
   # service item loop
   - title : "Leasing Lawyers"
