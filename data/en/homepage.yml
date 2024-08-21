@@ -62,17 +62,8 @@ feature:
 about:
   enable : true
   image : "images/about/home-8.jpg"
-  title : "Why Choose <br> Our Brooklyn Real Estate Law Services?"
-  content : "✓ **25+ years of experience** handling Brooklyn property matters
-
-✓ **In-depth knowledge** of local zoning laws and regulations
-
-✓ **Personalized attention** to your unique situation
-
-✓ **Clear communication** - we explain complex legal issues in plain English
-
-✓ **Proactive problem-solving** to prevent costly disputes
-"
+  title : "Protect Your Property Interests<br> with Experienced Legal Counsel"
+  content : "Are you buying, selling, or dealing with real estate issues in Brooklyn? Don't navigate the complex world of New York property law alone. Neil H. Kupferman, Esq., PC provides knowledgeable legal guidance to safeguard your real estate investments."
   button:
     enable : true
     label : "Contact Us"
