@@ -35,6 +35,7 @@ You have a vision. We have the expertise to help bring it to life - legally and 
 
 4. **Provide guidance on common legal considerations** in business formation
 
+![Alt txt](/images/about/home-8.jpg)
 
 ## **Our Proven Process**
 

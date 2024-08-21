@@ -46,6 +46,7 @@ Be cautious of relying solely on DIY legal documents. Consider these potential r
 
 - Potential difficulty raising capital or selling your business in the future
 
+![Alt txt](/images/about/home-8.jpg)
 
 ## **Our Process for Creating Customized Business Agreements**
 

@@ -31,6 +31,7 @@ At Neil H. Kupferman, Esq., PC, we provide legal guidance to help Brooklyn busin
 
 \- Jody Sica
 
+![Alt txt](/images/about/home-8.jpg)
 
 ### **Why Consider Neil H. Kupferman, Esq., PC?**
 
