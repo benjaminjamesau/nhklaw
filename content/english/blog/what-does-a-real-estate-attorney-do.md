@@ -5,7 +5,6 @@ draft: false
 description: "Discover the crucial role of real estate attorneys in property transactions. Learn how they protect your interests, handle complex legal issues, and ensure smooth closings. Expert insights inside!"
 bg_image: "images/blog/blog_main.jpg"
 image: "images/blog/1.jpg"
-categories: ["Real Estate Law"]
 type: "post"
 ---
 
