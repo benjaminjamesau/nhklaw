@@ -27,9 +27,9 @@ At Neil H. Kupferman, Esq., PC, we provide legal guidance to help Brooklyn busin
 
 ## **Protect Your Business with Informed Lease Decisions**
 
-_"I have known Niel Kupferman for the better part of of two decades, he’s represented me on numerous occasions,  first thing you’ll discover is Niel’s office is a small family oriented office where you feel like you’re part of his family and you are treated as such. Mr. Kupferman treats all transaction’s equal weather it’s his own Family portfolio or clients and does so with extreme care and diligence. I only trust them to represent my family’s real estate interests." 
+"I have known Niel Kupferman for the better part of of two decades, he’s represented me on numerous occasions,  first thing you’ll discover is Niel’s office is a small family oriented office where you feel like you’re part of his family and you are treated as such. Mr. Kupferman treats all transaction’s equal weather it’s his own Family portfolio or clients and does so with extreme care and diligence. I only trust them to represent my family’s real estate interests." 
 
-\- Jody Sica_
+\- Jody Sica
 
 
 ### **Why Consider Neil H. Kupferman, Esq., PC?**
@@ -65,13 +65,13 @@ Commercial leases often contain complex clauses that can significantly impact yo
 
 ### **Client Feedback:**
 
-_"Oren did my commercial lease and it was by far the smoothest real estate transaction I have ever done. He was extremely responsive and efficient and quick and I will definitely work with him again."
+"Oren did my commercial lease and it was by far the smoothest real estate transaction I have ever done. He was extremely responsive and efficient and quick and I will definitely work with him again."
 
- - Hannah K_
+ - Hannah K
 
-_"A pleasure to work with! Great communication, on top of every detail to make sure everything is done accurately. Would highly recommend and will be using them again" 
+"A pleasure to work with! Great communication, on top of every detail to make sure everything is done accurately. Would highly recommend and will be using them again" 
 
-\- Yossi Kopfstein_
+\- Yossi Kopfstein
 
 
 ## **Seek Legal Guidance for Your Commercial Lease Today**
