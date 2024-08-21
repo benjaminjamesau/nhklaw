@@ -104,17 +104,6 @@ service:
   content : "We provide a wide range of legal services"
   # service item comes from "data/**/service.yml" file
 
-######################## About #######################################
-about:
-  enable : true
-  title : "About Neil H. Kupferman, Esq., PC"
-  content : "With over two decades of experience practicing real estate law in Brooklyn, Neil Kupferman has the knowledge to handle even the most complex property matters. Our boutique firm provides personalized attention and strategic counsel to protect your real estate interests."
-  image : "images/about/home-8.jpg"
-  button:
-    enable : true
-    label : "Contact Us"
-    link : "contact/"
-
 ######################### pricing #####################################
 pricing:
   enable : false
