@@ -7,9 +7,6 @@ slug: "business-agreements"
 bg_image: "/images/services/8.jpg"
 ---
 
-
-# **Protect Your Business with Professional Legal Agreements in Brooklyn**
-
 ## **Customized LLC, Corporation & Partnership Contracts to Help Safeguard Your Company's Future**
 
 Are you a Brooklyn entrepreneur concerned about the legal foundation of your business? Don't let uncertainty hold you back from success.
