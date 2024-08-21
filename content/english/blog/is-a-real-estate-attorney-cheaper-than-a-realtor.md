@@ -149,7 +149,7 @@ Ultimately, the choice between a [real estate lawyers in Brooklyn](/) and a real
 6. **How do I know if I need both a realtor and an attorney for my transaction?** In NYC, it's often beneficial and legally necessary to have both. Consider the complexity of your transaction, your familiarity with the local market, and any potential legal issues.
 
 
-# For expert legal guidance in your real estate transactions, contact [Neil H. Kupferman, Esq., PC](/) at +17187683046. Our experienced team can help you navigate the complexities of NYC property deals while ensuring your interests are protected.
+**For expert legal guidance in your real estate transactions, contact [Neil H. Kupferman, Esq., PC](/) at +17187683046. Our experienced team can help you navigate the complexities of NYC property deals while ensuring your interests are protected.**
 
 {{< cta title="Experienced Legal Counsel for All Your Real Estate Law Needs" 
   description="At Neil H. Kupferman, Esq., PC, we understand that real estate transactions can be complex and overwhelming. Our dedicated team of attorneys is here to guide you through every step of the process, ensuring your interests are protected and your goals are achieved."
