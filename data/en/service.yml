@@ -6,6 +6,12 @@ services:
     icon : "ti-write" # themify icon pack: https://themify.me/themify-icons
     content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
 
+      # service item loop
+  - title : "LLC and Corporation Formation"
+    link : llc-and-corporation-formation
+    icon : "ti-layout-grid3" # themify icon pack: https://themify.me/themify-icons
+    content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
+
     # service item loop
   - title : "Commercial Leasing"
     link : commercial-leasing
@@ -18,11 +24,9 @@ services:
     icon : "ti-user"
     content : "Are you a landlord or tenant facing complex leasing issues in Brooklyn? Don't risk your property..."
     
-      # service item loop
-  - title : "LLC and Corporation Formation"
-    link : llc-and-corporation-formation
-    icon : "ti-layout-grid3" # themify icon pack: https://themify.me/themify-icons
-    content : "ALorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus."
+
+
+
 
 ######################### pricing #####################################
 pricing:

@@ -110,27 +110,22 @@ hasChildren = true
   [[menu.main]]
   parent = "Services"
   name = "Leasing Lawyers"
-  URL = "service/leasing-lawyers-brooklyn/"
+  URL = "service/leasing-lawyers/"
 
   [[menu.main]]
   parent = "Services"
-  name = "Residential Lending"
-  URL = "service/residential-lending/"
+  name = "Commercial Leasing"
+  URL = "service/commercial-leasing/"
 
   [[menu.main]]
   parent = "Services"
-  name = "Financing & Mortgages"
-  URL = "service/real-estate-financing-mortgages/"
+  name = "LLC and Corporation Formation"
+  URL = "service/llc-and-corporation-formation/"
 
   [[menu.main]]
   parent = "Services"
-  name = "Refinancing Commercial Properties"
-  URL = "service/refinancing-commercial-properties/"
-
-  [[menu.main]]
-  parent = "Services"
-  name = "LLC, Corporation, Partnership Agreements"
-  URL = "service/refinancing-commercial-properties/"
+  name = "Business Agreements"
+  URL = "service/business-agreements/"
 
 
 [[menu.main]]
