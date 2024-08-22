@@ -131,7 +131,7 @@ team:
           
         # social site loop
         - icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://www.linkedin.com/in/neil-kupferman-40a731174"
           
         # social site loop
         #- icon : "ti-github" # icon pack : https://themify.me/themify-icons
@@ -153,7 +153,7 @@ team:
           
         # social site loop
         - icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://www.linkedin.com/in/oren-goldhaber-7173b617/"
           
         # social site loop
         #- icon : "ti-github" # icon pack : https://themify.me/themify-icons
