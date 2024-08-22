@@ -31,7 +31,7 @@ banner_cta:
 feature:
   enable : True
   title : "Why Choose Us?"
-  image: "/images/teams/oren-neil.jpg"
+  image: "/images/team/oren-neil.jpg"
   feature_item:
     # feature item loop
     - title : "Over 25 years of experience in New York real estate law"
