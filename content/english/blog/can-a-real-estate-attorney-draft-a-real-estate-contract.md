@@ -180,13 +180,16 @@ A unique feature in many New York real estate contracts is the **attorney approv
 
 ## Frequently Asked Questions (FAQ)
 
-1. **Can I use a template contract instead of hiring an attorney?** While templates exist, they often lack the customization and legal safeguards an attorney provides.
-2. **How much does it cost to have a real estate lawyer draft a real estate contract?** Costs vary, but consider it an investment in protecting your significant real estate transaction.
-3. **What's the difference between a purchase agreement and a contract of sale?** These terms are often used interchangeably, but an attorney can explain any nuanced differences in your jurisdiction.
-4. **Can a real estate attorney represent both the buyer and seller?** In New York, it's common for one attorney to represent both parties in residential transactions, provided there's full disclosure and consent from both sides. However, in complex cases, separate representation may be advisable.
-5. **How long does it typically take for a real estate lawyer to draft a real estate contract?** Timeframes vary, but most attorneys can draft a contract within a few days to a week.
-6. **What happens if there's a dispute after the contract is signed?** Your attorney can guide you through dispute resolution processes outlined in the contract.
-7. **Are there any situations where I don't need an attorney for a real estate transaction?** While possible, involving an attorney is always recommended to ensure your interests are protected, especially in New York where it's legally required.
+{{< faq questions=`[
+  { "id": "1", "question": "Can I use a template contract instead of hiring an attorney?", "answer": "While templates exist, they often lack the customization and legal safeguards that an attorney provides." },
+  { "id": "2", "question": "How much does it cost to have a real estate lawyer draft a real estate contract?", "answer": "Costs vary, but consider it an investment in protecting your significant real estate transaction." },
+  { "id": "3", "question": "What's the difference between a purchase agreement and a contract of sale?", "answer": "These terms are often used interchangeably, but an attorney can explain any nuanced differences in your jurisdiction." },
+  { "id": "4", "question": "Can a real estate attorney represent both the buyer and seller?", "answer": "In New York, it's common for one attorney to represent both parties in residential transactions, provided there's full disclosure and consent from both sides. However, in complex cases, separate representation may be advisable." },
+  { "id": "5", "question": "How long does it typically take for a real estate lawyer to draft a real estate contract?", "answer": "Timeframes vary, but most attorneys can draft a contract within a few days to a week." },
+  { "id": "6", "question": "What happens if there's a dispute after the contract is signed?", "answer": "Your attorney can guide you through dispute resolution processes outlined in the contract." },
+  { "id": "7", "question": "Are there any situations where I don't need an attorney for a real estate transaction?", "answer": "While possible, involving an attorney is always recommended to ensure your interests are protected, especially in New York where it's legally required." }
+]` >}}
+
 
 In the complex world of real estate transactions, especially in New York, the expertise of a qualified [Brooklyn real estate lawyer](/) in drafting contracts is invaluable. From ensuring legal compliance to protecting your interests through title searches and attorney approval contingencies, a real estate attorney brings essential skills to the table. While practices may vary by location, the benefits of professional legal guidance in crafting your real estate contract are universal, and in New York, they're an integral part of the process.
 
