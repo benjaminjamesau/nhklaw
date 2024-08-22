@@ -156,15 +156,15 @@ Ultimately, the choice between a [real estate lawyers in Brooklyn](/) and a real
   button_text= "Contact Us"
   button_link= "/contact/" >}}
 
-   ## Related Real Estate Law Articles
+ ## Related Real Estate Law Articles
 
-  - [Can A Real Estate Attorney Draft A Real Estate Contract?](/can-a-real-estate-attorney-draft-a-real-estate-contract/)
-  - [Do I Need A Lawyer To Sell A house Privately?](/do-i-need-a-lawyer-to-sell-a-house-privately/)
-  - [Do Real Estate Lawyers Go To Court?](/do-real-estate-lawyers-go-to-court/)
-  - [How Much Does a Real Estate Attorney Cost?](/how-much-does-a-real-estate-attorney-cost/)
-  - [How To Find A Real Estate Lawyer?](/how-to-find-a-real-estate-lawyer/)
-  - [Is A Real Estate Attorney Cheaper Than A Realtor?](/is-a-real-estate-attorney-cheaper-than-a-realtor/)
-  - [Real Estate Attorney vs. Real Estate Agent?](/real-estate-attorney-vs-real-estate-agent/)
-  - [What Does A Real Estate Attorney Do At Closing?](/what-does-a-real-estate-attorney-do-at-closing/)
-  - [What Does a Real Estate Attorney Do?](/what-does-a-real-estate-attorney-do/)
-  - [When To Hire A Real Estate Attorney?](/when-to-hire-a-real-estate-attorney/)
+  - [Can A Real Estate Attorney Draft A Real Estate Contract?](/blog/can-a-real-estate-attorney-draft-a-real-estate-contract/)
+  - [Do I Need A Lawyer To Sell A house Privately?](/blog/do-i-need-a-lawyer-to-sell-a-house-privately/)
+  - [Do Real Estate Lawyers Go To Court?](/blog/do-real-estate-lawyers-go-to-court/)
+  - [How Much Does a Real Estate Attorney Cost?](/blog/how-much-does-a-real-estate-attorney-cost/)
+  - [How To Find A Real Estate Lawyer?](/blog/how-to-find-a-real-estate-lawyer/)
+  - [Is A Real Estate Attorney Cheaper Than A Realtor?](/blog/is-a-real-estate-attorney-cheaper-than-a-realtor/)
+  - [Real Estate Attorney vs. Real Estate Agent?](/blog/real-estate-attorney-vs-real-estate-agent/)
+  - [What Does A Real Estate Attorney Do At Closing?](/blog/what-does-a-real-estate-attorney-do-at-closing/)
+  - [What Does a Real Estate Attorney Do?](/blog/what-does-a-real-estate-attorney-do/)
+  - [When To Hire A Real Estate Attorney?](/blog/when-to-hire-a-real-estate-attorney/)
