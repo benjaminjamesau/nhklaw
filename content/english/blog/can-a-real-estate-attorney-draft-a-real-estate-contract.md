@@ -191,7 +191,7 @@ A unique feature in many New York real estate contracts is the **attorney approv
 In the complex world of real estate transactions, especially in New York, the expertise of a qualified [Brooklyn real estate lawyer](/) in drafting contracts is invaluable. From ensuring legal compliance to protecting your interests through title searches and attorney approval contingencies, a real estate attorney brings essential skills to the table. While practices may vary by location, the benefits of professional legal guidance in crafting your real estate contract are universal, and in New York, they're an integral part of the process.
 
 
-# **For expert legal guidance in drafting your real estate contract, contact Neil H. Kupferman, Esq., PC at +17187683046. Our experienced team is ready to protect your interests and ensure a smooth property transaction in compliance with New York state laws.**
+**For expert legal guidance in drafting your real estate contract, contact Neil H. Kupferman, Esq., PC at +17187683046. Our experienced team is ready to protect your interests and ensure a smooth property transaction in compliance with New York state laws.**
 
 
 {{< cta title="Experienced Legal Counsel for All Your Real Estate Law Needs" 

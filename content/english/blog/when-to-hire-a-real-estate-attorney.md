@@ -219,7 +219,7 @@ Discuss fees upfront:
 Navigating real estate transactions in New York is complex, but you don't have to do it alone; hiring an experienced real estate attorney can help simplify the process. A skilled real estate attorney is not just beneficial but essential in ensuring a successful property transaction in the Empire State. By understanding the crucial role of legal expertise in New York real estate deals, you can approach your transaction with confidence and peace of mind.
 
 
-# **Don't navigate complex New York real estate transactions alone. Contact [Neil H. Kupferman, Esq., PC](/) at +17187683046 for expert legal guidance and protect your interests throughout your property transaction.**
+**Don't navigate complex New York real estate transactions alone. Contact [Neil H. Kupferman, Esq., PC](/) at +17187683046 for expert legal guidance and protect your interests throughout your property transaction.**
 
 {{< cta title="Experienced Legal Counsel for All Your Real Estate Law Needs" 
   description="At Neil H. Kupferman, Esq., PC, we understand that real estate transactions can be complex and overwhelming. Our dedicated team of attorneys is here to guide you through every step of the process, ensuring your interests are protected and your goals are achieved."
