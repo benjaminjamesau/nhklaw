@@ -155,15 +155,16 @@ While it's generally advisable to have legal representation for any home sale in
 - When selling a high-value property without a realtor
 
 
-## Seller Frequently Asked Questions
+{{< faq questions=`[
+  { "id": "1", "question": "Is it legal to sell my house without a real estate agent in New York?", "answer": "Yes, it's legal to sell your house without an agent, but you'll still need an attorney for the transaction." },
+  { "id": "2", "question": "What disclosures am I required to make when selling my house privately?", "answer": "You must disclose any known material defects and provide lead-based paint disclosures for homes built before 1978. You can opt to provide a $500 credit instead of the Property Condition Disclosure Statement." },
+  { "id": "3", "question": "Can I use online legal services instead of hiring a local real estate attorney?", "answer": "While online services can be helpful, New York's specific requirements make it advisable to work with a local attorney familiar with state laws." },
+  { "id": "4", "question": "How long does the home selling process typically take in New York?", "answer": "The process can take anywhere from 60 to 90 days, depending on market conditions and the complexity of the sale." },
+  { "id": "5", "question": "What are the most common legal issues that arise in private home sales?", "answer": "Common issues include contract disputes, disclosure violations, and title problems." },
+  { "id": "6", "question": "What are the potential tax implications of selling my home in New York?", "answer": "You may be subject to capital gains tax if your home has appreciated significantly. Additionally, New York imposes a transfer tax on real estate sales. Consult with a tax professional for advice specific to your situation." }
+]` >}}
 
-1. **Is it legal to sell my house without a real estate agent in New York?** Yes, it's legal to sell your house without an agent, but you'll still need an attorney for the transaction.
-2. **What disclosures am I required to make when selling my house privately?** You must disclose any known material defects and provide lead-based paint disclosures for homes built before 1978. You can opt to provide a $500 credit instead of the Property Condition Disclosure Statement.
-3. **Can I use online legal services instead of hiring a local real estate attorney?** While online services can be helpful, New York's specific requirements make it advisable to work with a local attorney familiar with state laws.
-4. **How long does the home selling process typically take in New York?** The process can take anywhere from 60 to 90 days, depending on market conditions and the complexity of the sale.
-5. **What are the most common legal issues that arise in private home sales?** Common issues include contract disputes, disclosure violations, and title problems.
-6. **What are the potential tax implications of selling my home in New York?** You may be subject to capital gains tax if your home has appreciated significantly. Additionally, New York imposes a transfer tax on real estate sales. Consult with a tax professional for advice specific to your situation.
-
+<br>
 
 ## Making an Informed Decision About Legal Representation in Your Home Sale
 
