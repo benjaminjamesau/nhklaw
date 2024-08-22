@@ -144,14 +144,15 @@ Your lawyer offers services as a closing attorney to help navigate the complexit
 - Ability to navigate unique local regulations
 
 
-## Frequently Asked Questions About Real Estate Attorneys and Closings
+{{< faq questions=`[
+  { "id": "1", "question": "Is a real estate lawyer required for closing in New York?", "answer": "Yes, New York State requires an attorney to be present at real estate closings." },
+  { "id": "2", "question": "How much does a real estate lawyer typically charge for closing?", "answer": "Fees can vary, but typically range from $1,000 to $2,500 for a standard residential transaction. Complex cases or high-value properties may incur higher fees." },
+  { "id": "3", "question": "What's the difference between a real estate agent and a real estate lawyer in the context of a real estate contract?", "answer": "Real estate agents handle the marketing and negotiation of property sales, while lawyers handle the legal aspects of the transaction, including title insurance company interactions." },
+  { "id": "4", "question": "Can I use the same closing attorney as the seller in a real estate transaction, or do I need a real estate attorney for myself?", "answer": "It's generally not recommended, as it can create a conflict of interest. Each party should have their own legal representation." },
+  { "id": "5", "question": "What documents does a real estate lawyer prepare for closing?", "answer": "Lawyers prepare or review the deed, mortgage documents, transfer tax forms, and various closing statements, including the crucial Closing Disclosure, ensuring that both the buyer and seller are adequately represented." }
+]` >}}
 
-1. **Is a real estate lawyer required for closing in New York?** Yes, New York State requires an attorney to be present at real estate closings.
-2. **How much does a real estate lawyer typically charge for closing?** Fees can vary, but typically range from $1,000 to $2,500 for a standard residential transaction. Complex cases or high-value properties may incur higher fees.
-3. **What's the difference between a real estate agent and a real estate lawyer in the context of a real estate contract?** Real estate agents handle the marketing and negotiation of property sales, while lawyers handle the legal aspects of the transaction, including title insurance company interactions.
-4. **Can I use the same closing attorney as the seller in a real estate transaction, or do I need a real estate attorney for myself?** It's generally not recommended, as it can create a conflict of interest. Each party should have their own legal representation.
-5. **What documents does a real estate lawyer prepare for closing?** Lawyers prepare or review the deed, mortgage documents, transfer tax forms, and various closing statements, including the crucial Closing Disclosure, ensuring that both the buyer and seller are adequately represented.
-
+<br>
 
 ## Ensuring a Smooth Property Transfer with Legal Expertise
 

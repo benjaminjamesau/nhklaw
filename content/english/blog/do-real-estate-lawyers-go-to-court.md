@@ -146,13 +146,14 @@ Selecting the right real estate lawyer in New York is crucial. Consider these st
   button_text= "Contact Us"
   button_link= "/contact/" >}}
 
-## FAQs About Real Estate Lawyers and Court Appearances in New York
-
-1. **How often do real estate lawyers actually go to court in New York?** Most real estate transactions in New York don't require court appearances. Lawyers typically go to court only when disputes can't be resolved through negotiation or mediation.
-2. **Can a real estate lawyer help me avoid going to court in New York?** Yes, one of their primary goals is to prevent legal issues that could lead to litigation, especially important given New York's complex real estate laws.
-3. **What's the difference between a real estate agent and a real estate lawyer in New York?** Real estate agents handle the practical aspects of buying and selling property, while lawyers focus on legal matters and protecting their clients' interests. In New York, both play crucial roles in property transactions.
-4. **Do I need a real estate lawyer if I'm not buying or selling property in New York?** You might need one for other property-related issues, such as boundary disputes or landlord-tenant conflicts, which are common in New York's dense urban areas.
-5. **How much does it cost to hire a real estate lawyer for court representation in New York?** Costs vary widely depending on the complexity of the case and the lawyer's experience. Many charge hourly rates, while some may offer flat fees for specific services. New York rates may be higher than the national average due to the cost of living and complexity of local laws.
+{{< faq questions=`[
+  { "id": "1", "question": "How often do real estate lawyers actually go to court in New York?", "answer": "Most real estate transactions in New York don't require court appearances. Lawyers typically go to court only when disputes can't be resolved through negotiation or mediation." },
+  { "id": "2", "question": "Can a real estate lawyer help me avoid going to court in New York?", "answer": "Yes, one of their primary goals is to prevent legal issues that could lead to litigation, especially important given New York's complex real estate laws." },
+  { "id": "3", "question": "What's the difference between a real estate agent and a real estate lawyer in New York?", "answer": "Real estate agents handle the practical aspects of buying and selling property, while lawyers focus on legal matters and protecting their clients' interests. In New York, both play crucial roles in property transactions." },
+  { "id": "4", "question": "Do I need a real estate lawyer if I'm not buying or selling property in New York?", "answer": "You might need one for other property-related issues, such as boundary disputes or landlord-tenant conflicts, which are common in New York's dense urban areas." },
+  { "id": "5", "question": "How much does it cost to hire a real estate lawyer for court representation in New York?", "answer": "Costs vary widely depending on the complexity of the case and the lawyer's experience. Many charge hourly rates, while some may offer flat fees for specific services. New York rates may be higher than the national average due to the cost of living and complexity of local laws." }
+]` >}}
+<br>
 
 
 ## The Value of Legal Expertise in New York Real Estate

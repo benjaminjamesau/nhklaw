@@ -205,13 +205,14 @@ Discuss fees upfront:
 - Be aware that rates in New York, especially NYC, may be higher than national averages
 
 
-## FAQs About Hiring Real Estate Attorneys in New York
-
-1. **How much does a real estate attorney cost in New York?** Costs vary, but typically range from $2,000 to $5,000 or more for a standard transaction in NYC, potentially lower in other parts of the state.
-2. **Can I use the same attorney as the other party in a transaction?** It's not recommended to handle negotiations alone, as it can lead to conflicts of interest. In New York, each party typically has their own attorney.
-3. **What's the difference between a real estate agent and a real estate attorney in New York?** Agents handle the business aspects of the transaction, while attorneys focus on legal matters and can provide legal advice. In New York, both are typically involved in the process.
-4. **Do I need an attorney for a simple home purchase in New York?** Yes, in New York, it's standard practice and essentially required to have an attorney for all real estate transactions, even seemingly simple ones.
-5. **How early in the process should I hire a real estate attorney in New York?** As early as possible, ideally before signing any contracts or making offers. Early involvement allows for better protection of your interests in New York's complex real estate market.
+{{< faq questions=`[
+  { "id": "1", "question": "How much does a real estate attorney cost in New York?", "answer": "Costs vary, but typically range from $2,000 to $5,000 or more for a standard transaction in NYC, potentially lower in other parts of the state." },
+  { "id": "2", "question": "Can I use the same attorney as the other party in a transaction?", "answer": "It's not recommended to handle negotiations alone, as it can lead to conflicts of interest. In New York, each party typically has their own attorney." },
+  { "id": "3", "question": "What's the difference between a real estate agent and a real estate attorney in New York?", "answer": "Agents handle the business aspects of the transaction, while attorneys focus on legal matters and can provide legal advice. In New York, both are typically involved in the process." },
+  { "id": "4", "question": "Do I need an attorney for a simple home purchase in New York?", "answer": "Yes, in New York, it's standard practice and essentially required to have an attorney for all real estate transactions, even seemingly simple ones." },
+  { "id": "5", "question": "How early in the process should I hire a real estate attorney in New York?", "answer": "As early as possible, ideally before signing any contracts or making offers. Early involvement allows for better protection of your interests in New York's complex real estate market." }
+]` >}}
+<br>
 
 
 ## Making an Informed Decision

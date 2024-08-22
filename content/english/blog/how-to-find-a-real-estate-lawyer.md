@@ -186,16 +186,17 @@ Remember, you'll be working closely with this person through an important transa
 - Can you envision a productive working relationship throughout your transaction?
 
 
-## Frequently Asked Questions About Finding a Real Estate Attorney in New York
-
-1. **Is it legally required to have a lawyer for real estate transactions in New York?** While not legally mandated, it is standard practice and highly recommended due to the complexity of New York real estate law.
-2. **How much does a real estate lawyer typically cost in New York?** Costs vary based on location and case complexity. In New York City, fees tend to be higher than in upstate areas.
-3. **What's the difference between a real estate agent and a real estate lawyer in New York?** Agents handle property marketing and sales, while lawyers manage legal aspects and are integral to the closing process in New York.
-4. **How long does the average real estate transaction take with a lawyer in New York?** Timeframes vary, but having a lawyer often streamlines the process, especially in navigating New York's unique closing procedures.
-5. **Can I use the same lawyer for both residential and commercial property transactions in New York?** While possible, it's often best to hire a real estate lawyer specializing in your specific type of transaction, as New York laws differ for residential and commercial properties.
-6. **What should I bring to my first meeting with a New York real estate lawyer?** Bring all relevant documents, including contracts, property information, and a list of questions specific to your New York real estate concerns.
-7. **How often should I expect updates from my New York real estate lawyer during a transaction?** This should be discussed upfront. Good lawyers provide regular updates and are available for questions, especially important in New York's dynamic real estate market, particularly during a mortgage process.
-8. **What are some red flags to watch out for when choosing a real estate lawyer in New York?** Be wary of lawyers who are not familiar with New York-specific real estate practices, seem disorganized, or are reluctant to provide a clear, written fee agreement as required by New York law.
+{{< faq questions=`[
+  { "id": "1", "question": "Is it legally required to have a lawyer for real estate transactions in New York?", "answer": "While not legally mandated, it is standard practice and highly recommended due to the complexity of New York real estate law." },
+  { "id": "2", "question": "How much does a real estate lawyer typically cost in New York?", "answer": "Costs vary based on location and case complexity. In New York City, fees tend to be higher than in upstate areas." },
+  { "id": "3", "question": "What's the difference between a real estate agent and a real estate lawyer in New York?", "answer": "Agents handle property marketing and sales, while lawyers manage legal aspects and are integral to the closing process in New York." },
+  { "id": "4", "question": "How long does the average real estate transaction take with a lawyer in New York?", "answer": "Timeframes vary, but having a lawyer often streamlines the process, especially in navigating New York's unique closing procedures." },
+  { "id": "5", "question": "Can I use the same lawyer for both residential and commercial property transactions in New York?", "answer": "While possible, it's often best to hire a real estate lawyer specializing in your specific type of transaction, as New York laws differ for residential and commercial properties." },
+  { "id": "6", "question": "What should I bring to my first meeting with a New York real estate lawyer?", "answer": "Bring all relevant documents, including contracts, property information, and a list of questions specific to your New York real estate concerns." },
+  { "id": "7", "question": "How often should I expect updates from my New York real estate lawyer during a transaction?", "answer": "This should be discussed upfront. Good lawyers provide regular updates and are available for questions, especially important in New York's dynamic real estate market, particularly during a mortgage process." },
+  { "id": "8", "question": "What are some red flags to watch out for when choosing a real estate lawyer in New York?", "answer": "Be wary of lawyers who are not familiar with New York-specific real estate practices, seem disorganized, or are reluctant to provide a clear, written fee agreement as required by New York law." }
+]` >}}
+<br>
 
 
 ## Securing Your New York Real Estate Future with the Right Legal Partner

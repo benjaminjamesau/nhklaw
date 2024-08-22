@@ -153,15 +153,16 @@ To ensure you're getting the best value for your money, follow these tips when h
   button_text= "Contact Us"
   button_link= "/contact/" >}}
 
-## Frequently Asked Questions About Real Estate Attorney Costs in New York
+{{< faq questions=`[
+  { "id": "1", "question": "Why does New York require an attorney for real estate transactions?", "answer": "New York law considers many aspects of real estate transactions to be 'practicing law,' which only licensed attorneys can do." },
+  { "id": "2", "question": "How much does a real estate attorney charge for a typical home closing in New York City, including any litigation costs?", "answer": "In NYC, fees can range from $2,000 to $5,000 or more, depending on the complexity of the transaction." },
+  { "id": "3", "question": "Are there additional legal fees for co-op or condo purchases in New York?", "answer": "Yes, these transactions often incur higher fees due to the additional work involved with board applications and proprietary leases." },
+  { "id": "4", "question": "How do New York real estate attorney fees compare to realtor commissions in a residential real estate transaction?", "answer": "Attorney fees are typically much lower than realtor commissions, which in New York are usually 5-6% of the sale price." },
+  { "id": "5", "question": "What New York-specific closing costs should I be aware of?", "answer": "Be prepared for New York State and New York City transfer taxes, mansion tax (for properties over $1 million), and potentially flip taxes in some co-ops, as these can impact the overall cost of hiring a real estate lawyer." }
+]` >}}
 
-1. **Why does New York require an attorney for real estate transactions?** New York law considers many aspects of real estate transactions to be "practicing law," which only licensed attorneys can do.
-2. **How much does a real estate attorney charge for a typical home closing in New York City, including any litigation costs?** In NYC, fees can range from $2,000 to $5,000 or more, depending on the complexity of the transaction.
-3. **Are there additional legal fees for co-op or condo purchases in New York?** Yes, these transactions often incur higher fees due to the additional work involved with board applications and proprietary leases.
-4. **How do New York real estate attorney fees compare to realtor commissions in a residential real estate transaction?** Attorney fees are typically much lower than realtor commissions, which in New York are usually 5-6% of the sale price.
-5. **What New York-specific closing costs should I be aware of?** Be prepared for New York State and New York City transfer taxes, mansion tax (for properties over $1 million), and potentially flip taxes in some co-ops, as these can impact the overall cost of hiring a real estate lawyer.
 
-
+<br>
 ## Making an Informed Decision on Legal Representation in New York
 
 Choosing a real estate attorney in New York is a critical decision that can significantly impact your transaction. By understanding the typical costs and factors that influence them, you can make an informed choice that protects your interests in New York's unique and often complex real estate market.

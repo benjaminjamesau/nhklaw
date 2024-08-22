@@ -159,14 +159,14 @@ Selecting the right legal representation is crucial. Consider these factors:
 - Ensure they're available to address your concerns throughout the process
 
 
-## Frequently Asked Questions About Real Estate Attorneys
-
-1. **Can I use the same attorney as the seller?** No, it's best for buyers and sellers to have separate legal representation to avoid conflicts of interest.
-2. **What's the difference between a real estate agent and a real estate attorney?** Real estate agents handle the property search and initial negotiations, while attorneys handle the legal aspects of the transaction.
-3. **How long does the legal process typically take when buying a house?** The timeline can vary, but typically it takes 30-60 days from contract signing to closing.
-4. **What happens if I don't hire a real estate attorney?** You risk missing important legal issues, potentially leading to costly problems down the line.
-5. **Can a real estate attorney help with mortgage negotiations?** Yes, they can review mortgage terms and assist in negotiations with lenders during your home purchase.
-
+{{< faq questions=`[
+  { "id": "1", "question": "Can I use the same attorney as the seller?", "answer": "No, it's best for buyers and sellers to have separate legal representation to avoid conflicts of interest." },
+  { "id": "2", "question": "What's the difference between a real estate agent and a real estate attorney?", "answer": "Real estate agents handle the property search and initial negotiations, while attorneys handle the legal aspects of the transaction." },
+  { "id": "3", "question": "How long does the legal process typically take when buying a house?", "answer": "The timeline can vary, but typically it takes 30-60 days from contract signing to closing." },
+  { "id": "4", "question": "What happens if I don't hire a real estate attorney?", "answer": "You risk missing important legal issues, potentially leading to costly problems down the line." },
+  { "id": "5", "question": "Can a real estate attorney help with mortgage negotiations?", "answer": "Yes, they can review mortgage terms and assist in negotiations with lenders during your home purchase." }
+]` >}}
+<br>
 
 ## The Value of Legal Expertise in Your Home Buying Journey
 

@@ -131,16 +131,18 @@ When engaging professionals for a New York real estate transaction, consider:
 In New York's unique real estate landscape, both real estate attorneys and agents play crucial roles. While agents provide invaluable market insights and facilitate deals, attorneys are essential for navigating the legal complexities and protecting your interests throughout the transaction process.
 
 
-## Frequently Asked Questions About New York Real Estate Attorneys and Agents
+{{< faq questions=`[
+  { "id": "1", "question": "Is it mandatory to hire a real estate attorney in New York?", "answer": "While not legally mandated, it's standard practice and highly recommended for all real estate transactions in New York." },
+  { "id": "2", "question": "How much does a real estate attorney typically cost in New York?", "answer": "Costs can vary, but expect to pay anywhere from $2,000 to $5,000 for a typical residential transaction." },
+  { "id": "3", "question": "Do I need both a real estate agent and an attorney when buying a home in New York?", "answer": "Yes, it's standard practice in New York to work with both professionals for a comprehensive approach to your transaction." },
+  { "id": "4", "question": "What specific services do New York real estate attorneys provide that agents don't?", "answer": "Attorneys handle legal aspects such as contract preparation, title review, and closing representation, which agents are not licensed to do." },
+  { "id": "5", "question": "Can a New York real estate agent provide legal advice during a transaction?", "answer": "No, real estate agents in New York are not licensed to provide legal advice. For legal matters, always consult a qualified attorney." },
+  { "id": "6", "question": "How do real estate agent commissions in New York City differ from the rest of the state?", "answer": "Commissions in New York City, especially Manhattan, can be higher, sometimes reaching 6-7% compared to the typical 5-6% elsewhere." },
+  { "id": "7", "question": "What role do title companies play in New York real estate transactions?", "answer": "Title companies perform title searches, but attorneys review the results and address any issues found." },
+  { "id": "8", "question": "How does New York's attorney involvement in real estate transactions compare to other states?", "answer": "New York has a more attorney-centric approach to real estate transactions compared to many other states, with lawyers playing a central role in the process." }
+]` >}}
 
-1. **Is it mandatory to hire a real estate attorney in New York?** While not legally mandated, it's standard practice and highly recommended for all real estate transactions in New York.
-2. **How much does a real estate attorney typically cost in New York?** Costs can vary, but expect to pay anywhere from $2,000 to $5,000 for a typical residential transaction.
-3. **Do I need both a real estate agent and an attorney when buying a home in New York?** Yes, it's standard practice in New York to work with both professionals for a comprehensive approach to your transaction.
-4. **What specific services do New York real estate attorneys provide that agents don't?** Attorneys handle legal aspects such as contract preparation, title review, and closing representation, which agents are not licensed to do.
-5. **Can a New York real estate agent provide legal advice during a transaction?** No, real estate agents in New York are not licensed to provide legal advice. For legal matters, always consult a qualified attorney.
-6. **How do real estate agent commissions in New York City differ from the rest of the state?** Commissions in New York City, especially Manhattan, can be higher, sometimes reaching 6-7% compared to the typical 5-6% elsewhere.
-7. **What role do title companies play in New York real estate transactions?** Title companies perform title searches, but attorneys review the results and address any issues found.
-8. **How does New York's attorney involvement in real estate transactions compare to other states?** New York has a more attorney-centric approach to real estate transactions compared to many other states, with lawyers playing a central role in the process.
+<br>
 
 ***
 

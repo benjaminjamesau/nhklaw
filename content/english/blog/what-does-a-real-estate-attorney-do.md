@@ -173,18 +173,16 @@ Consider the role of the lender in the transaction.
   button_text= "Contact Us"
   button_link= "/contact/" >}}
 
-## FAQs About Real Estate Attorneys in New York
 
-1. **Is it mandatory to have an attorney for real estate transactions in New York?** While not legally required, it's standard practice and highly recommended due to the complexity of New York real estate law.
+{{< faq questions=`[
+  { "id": "1", "question": "Is it mandatory to have an attorney for real estate transactions in New York?", "answer": "While not legally required, it's standard practice and highly recommended due to the complexity of New York real estate law." },
+  { "id": "2", "question": "How does New York's 'table closing' differ from other states?", "answer": "In New York, all parties typically meet in person at a title company to sign documents and complete the transaction, unlike some states that use escrow closings." },
+  { "id": "3", "question": "How can a real estate attorney help with co-op or condo purchases in New York City?", "answer": "They can navigate board approval processes, review complex proprietary leases and offering plans, and address unique financing challenges." },
+  { "id": "4", "question": "What's unique about title insurance in New York?", "answer": "Title insurance rates in New York are regulated by the state, ensuring consistent pricing across providers." },
+  { "id": "5", "question": "How can a real estate attorney help with New York City's specific housing regulations?", "answer": "They can navigate complex local laws, including those related to rent control, rent stabilization, zoning, and building code compliance." }
+]` >}}
 
-2. **How does New York's "table closing" differ from other states?** In New York, all parties typically meet in person at a title company to sign documents and complete the transaction, unlike some states that use escrow closings.
-
-3. **How can a real estate attorney help with co-op or condo purchases in New York City?** They can navigate board approval processes, review complex proprietary leases and offering plans, and address unique financing challenges.
-
-4. **What's unique about title insurance in New York?** Title insurance rates in New York are regulated by the state, ensuring consistent pricing across providers.
-
-5. **How can a real estate attorney help with New York City's specific housing regulations?** They can navigate complex local laws, including those related to rent control, rent stabilization, zoning, and building code compliance.
-
+<br>
 
 ## Conclusion
 
