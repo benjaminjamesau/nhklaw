@@ -172,5 +172,5 @@ promo_video:
 blog:
   enable: true
   title : "Latest News & Articles"
-  content : "Don’t just take our words for it. Our clients are our biggest supporters. Would you like to know what they think about us?"
+  content : ""
   # blog post comes from "content/**/blog" folder.
