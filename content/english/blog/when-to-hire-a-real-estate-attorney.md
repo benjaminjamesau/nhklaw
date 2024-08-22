@@ -77,6 +77,9 @@ When legal complications arise, it's time to call in a real estate attorney. Com
 
 An experienced attorney can navigate these challenges and work towards a resolution.
 
+{{< cta title="Contact Neil H. Kupferman, Esq., PC for All Your Real Estate Law Needs" 
+  button_text= "Contact Us"
+  button_link= "/contact/" >}}
 
 ## Benefits of Hiring a Real Estate Attorney in New York
 
@@ -128,6 +131,9 @@ While hiring an attorney in New York does add to your expenses, it's a necessary
 
 In New York's complex real estate market, the expertise of an attorney is indispensable.
 
+{{< cta title="Contact Neil H. Kupferman, Esq., PC for All Your Real Estate Law Needs" 
+  button_text= "Contact Us"
+  button_link= "/contact/" >}}
 
 ## The Real Estate Attorney's Role in New York Transactions
 
@@ -216,3 +222,8 @@ Navigating real estate transactions in New York is complex, but you don't have t
 
 
 # **Don't navigate complex New York real estate transactions alone. Contact [Neil H. Kupferman, Esq., PC](/) at +17187683046 for expert legal guidance and protect your interests throughout your property transaction.**
+
+{{< cta title="Experienced Legal Counsel for All Your Real Estate Law Needs" 
+  description="At Neil H. Kupferman, Esq., PC, we understand that real estate transactions can be complex and overwhelming. Our dedicated team of attorneys is here to guide you through every step of the process, ensuring your interests are protected and your goals are achieved."
+  button_text= "Contact Us"
+  button_link= "/contact/" >}}
