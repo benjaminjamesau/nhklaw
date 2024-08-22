@@ -38,7 +38,13 @@ target = '$1'
 
 ############################# Outputs ##############################
 [outputs]
-home = ["HTML", "RSS", "JSON"]
+home = ["HTML", "RSS", "JSON", "SITEMAP"]
+
+############################# Sitemap Configuration #################
+[sitemap]
+  changefreq = "monthly"  # How often your pages are likely to change
+  priority = 0.5          # The priority of your pages relative to other pages on your site
+  filename = "sitemap.xml" # The name of the sitemap file to be generated
 
 ############################# Imaging ##############################
 [imaging]
