@@ -178,8 +178,6 @@ A unique feature in many New York real estate contracts is the **attorney approv
 - Ensure that both parties have the opportunity for legal review before the contract becomes binding
 
 
-## Frequently Asked Questions (FAQ)
-
 {{< faq questions=`[
   { "id": "1", "question": "Can I use a template contract instead of hiring an attorney?", "answer": "While templates exist, they often lack the customization and legal safeguards that an attorney provides." },
   { "id": "2", "question": "How much does it cost to have a real estate lawyer draft a real estate contract?", "answer": "Costs vary, but consider it an investment in protecting your significant real estate transaction." },
