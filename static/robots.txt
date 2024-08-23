@@ -11,5 +11,9 @@ Disallow: /admin/
 Disallow: /dev/
 Disallow: /test/
 Disallow: /archive/
+Disallow: /cdn-cgi/
+Disallow: blog/page/
+Disallow: /author/
+Disallow: /livereload.js
 
 Sitemap: https://nhklaw.com/sitemap.xml
