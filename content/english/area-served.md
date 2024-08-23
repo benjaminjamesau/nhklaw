@@ -2,7 +2,7 @@
 title: "Areas Served In and Around Brooklyn, New York"
 date: 2024-08-08T00:00:00Z
 layout: "page"
-slug: "areas-served"
+slug: "area-served"
 bg_image: "images/pages/1.jpg"
 ---
 
