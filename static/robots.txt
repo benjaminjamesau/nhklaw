@@ -15,5 +15,8 @@ Disallow: /cdn-cgi/
 Disallow: /blog/page/
 Disallow: /author/
 Disallow: /livereload.js
+Disallow: /author/
+Disallow: /author/john-doe/
+Disallow: /blog/page/2/
 
 Sitemap: https://nhklaw.com/sitemap.xml
