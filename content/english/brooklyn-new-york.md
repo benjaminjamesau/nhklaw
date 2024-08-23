@@ -6,7 +6,7 @@ slug: "brooklyn-new-york"
 bg_image: "images/pages/1.jpg"
 ---
 
-{{< maps >}}
+{{< brooklyn-new-york >}}
 
 # Brooklyn, New York
 
