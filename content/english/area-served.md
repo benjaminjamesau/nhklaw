@@ -11,6 +11,8 @@ bg_image: "images/pages/1.jpg"
 
 ## Neil H. Kupferman, Esq., PC: Proudly Serving The Brooklyn Community!
 
+{{< maps >}}
+
 **We recognize that property owners and investors in Brooklyn face complex legal challenges in the dynamic Brooklyn, New York real estate market. That's why at Neil H. Kupferman, Esq., PC, Brooklyn's premier real estate legal specialists, we're dedicated to providing comprehensive legal services for all your property-related needs. We offer expert guidance and representation for residential and commercial real estate transactions of any scale. Whether you're dealing with property in bustling Downtown Brooklyn or the charming neighborhoods of Park Slope and Williamsburg, Neil H. Kupferman, Esq., PC is committed to protecting your interests with professionalism and in-depth local knowledge. Trust Brooklyn's top real estate attorneys to navigate the intricacies of New York property law, ensuring smooth transactions and robust legal protection with our unwavering commitment to client success.**\
 **Providing Expert Real Estate Legal Services to Brooklyn Property Owners and Investors**
 
