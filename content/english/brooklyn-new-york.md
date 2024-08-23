@@ -6,8 +6,6 @@ slug: "brooklyn-new-york"
 bg_image: "images/pages/1.jpg"
 ---
 
-{{< brooklyn-new-york >}}
-
 # Brooklyn, New York
 
 Brooklyn, one of New York City's five boroughs, is a vibrant and diverse urban center where historic neighborhoods blend seamlessly with modern development. Situated on the western end of Long Island, Brooklyn's unique geography showcases a mix of brownstone-lined streets, industrial-chic warehouses, and sleek high-rises, creating a cityscape that appeals to residents and visitors from all walks of life. 
