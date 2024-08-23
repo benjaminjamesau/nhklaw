@@ -12,7 +12,7 @@ Disallow: /dev/
 Disallow: /test/
 Disallow: /archive/
 Disallow: /cdn-cgi/
-Disallow: blog/page/
+Disallow: /blog/page/
 Disallow: /author/
 Disallow: /livereload.js
 
