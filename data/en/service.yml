@@ -2,7 +2,7 @@
 services:
       # service item loop
   - title : "Business Agreements"
-    link : business-agreements
+    link : https://nhklaw.com/business-agreements/
     icon : "ti-write" # themify icon pack: https://themify.me/themify-icons
     content : "Are you a Brooklyn entrepreneur concerned about the legal foundation of your business?..."
 
