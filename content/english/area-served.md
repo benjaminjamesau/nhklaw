@@ -15,7 +15,7 @@ bg_image: "images/pages/1.jpg"
 **Providing Expert Real Estate Legal Services to Brooklyn Property Owners and Investors**
 
 - New York, NY
-- Brooklyn, NY
+- [Brooklyn, NY](/)
 - Jersey City, NJ
 - Hoboken, NJ
 - Bayonne, NJ
