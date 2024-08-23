@@ -4,7 +4,7 @@ image : ""
 email: "email2@example.org"
 description: "this is meta description"
 bg_image: "images/bg/banner-1.jpg"
-draft: false
+draft: true
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
     link : "#"
