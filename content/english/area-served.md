@@ -1,13 +1,10 @@
 ---
-title: "Areas Served"
+title: "Areas Served In and Around Brooklyn, New York"
 date: 2024-08-08T00:00:00Z
 layout: "page"
 slug: "areas-served"
 bg_image: "images/pages/1.jpg"
 ---
-
-
-# **Areas Served In and Around Brooklyn, New York**
 
 ## Neil H. Kupferman, Esq., PC: Proudly Serving The Brooklyn Community!
 
