@@ -116,22 +116,22 @@ hasChildren = true
   [[menu.main]]
   parent = "Services"
   name = "Leasing Lawyers"
-  URL = "service/leasing-lawyers/"
+  URL = "leasing-lawyers/"
 
   [[menu.main]]
   parent = "Services"
   name = "Commercial Leasing"
-  URL = "service/commercial-leasing/"
+  URL = "commercial-leasing/"
 
   [[menu.main]]
   parent = "Services"
   name = "LLC and Corporation Formation"
-  URL = "service/llc-and-corporation-formation/"
+  URL = "llc-and-corporation-formation/"
 
   [[menu.main]]
   parent = "Services"
   name = "Business Agreements"
-  URL = "service/business-agreements/"
+  URL = "business-agreements/"
 
 
 [[menu.main]]
