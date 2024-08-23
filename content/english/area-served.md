@@ -35,9 +35,9 @@ bg_image: "images/pages/1.jpg"
 ### **Real Estate Legal Services**
 
 - [Real Estate Lawyers](/)
-- 
+- [Real Estate Lawyers](/)
 - 
 
 ##### **Call Neil H. Kupferman, Esq., PC at +17187683046**
 
-Here at Neil H. Kupferman, Esq., PC](/) we look forward to serving you for all your Brooklyn real estate legal needs!
+Here at [Neil H. Kupferman, Esq., PC](/) we look forward to serving you for all your Brooklyn real estate legal needs!
