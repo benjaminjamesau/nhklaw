@@ -5,8 +5,7 @@ layout: "page"
 slug: "area-served"
 bg_image: "images/pages/1.jpg"
 ---
-<br>
-<br>
+
 ## Neil H. Kupferman, Esq., PC: Proudly Serving The Brooklyn Community!
 
 {{< maps >}}
