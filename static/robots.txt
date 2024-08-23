@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /plugins/
+Disallow: /plugins/aos/aos.js
+Disallow: /css/
+Disallow: /js/
+Disallow: /images/
+Disallow: /themes/
+Disallow: /tags/
+Disallow: /categories/
+Disallow: /admin/
+Disallow: /dev/
+Disallow: /test/
+Disallow: /archive/
+
+Sitemap: https://nhklaw.com/sitemap.xml
