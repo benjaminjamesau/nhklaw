@@ -4,7 +4,7 @@ date: 2024-08-21T10:30:13+06:00
 draft: false
 description: "Discover the crucial role of real estate attorneys in a real estate contract. Learn why legal expertise is essential for protecting your interests in property transactions."
 bg_image: "images/blog/blog_main.jpg"
-image: "images/blog/4.jpg"
+image: "/images/services/1.jpg"
 type: "post"
 ---
 
