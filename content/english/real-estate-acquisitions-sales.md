@@ -7,3 +7,6 @@ slug: "real-estate-acquisitions-sales"
 bg_image: "/images/services/12.jpg"
 ---
 
+
+
+{{< locations >}}

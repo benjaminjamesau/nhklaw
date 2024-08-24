@@ -86,5 +86,4 @@ As the NYC real estate market continues to evolve, the role of commercial real e
   { "id": "7", "question": "What are the benefits of working with a local NYC attorney for commercial real estate financing?", "answer": "Local attorneys offer in-depth knowledge of NYC's unique real estate market, regulations, and business practices, providing tailored investment guidance." }
 ]` >}}
 
-
-
+{{< locations >}}

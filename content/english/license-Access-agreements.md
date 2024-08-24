@@ -9,3 +9,6 @@ bg_image: "/images/services/9.jpg"
 
 
 Content for Service 9 goes here.
+
+
+{{< locations >}}

@@ -79,3 +79,6 @@ Consider getting professional guidance to create agreements that may help protec
   description="At Neil H. Kupferman, Esq., PC, we understand that LLC, corporation, partnership agreements can be complex and overwhelming. Our dedicated team of attorneys is here to guide you through every step of the process, ensuring your interests are protected and your goals are achieved."
   button_text= "Contact Us"
   button_link= "/contact/" >}}
+
+
+{{< locations >}}
