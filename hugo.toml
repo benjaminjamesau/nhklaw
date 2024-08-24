@@ -146,7 +146,7 @@ weight = 2
 
 # footer menu
 [[menu.footer]]
-name = "Real Estate Lawyer Brooklyn"
+name = "Real Estate Lawyer"
 URL = "/"
 weight = 1
 
