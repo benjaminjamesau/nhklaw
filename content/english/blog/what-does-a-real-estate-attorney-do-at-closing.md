@@ -4,7 +4,7 @@ date: 2024-08-21T10:30:13+06:00
 draft: false
 description: "Discover the crucial role of a real estate attorney during closing. Learn how they protect your interests, handle real estate transaction legal documents, and ensure a smooth property transfer."
 bg_image: "images/blog/blog_main.jpg"
-image: "images/blog/3.jpg"
+image: "/images/services/9.jpg"
 type: "post"
 ---
 

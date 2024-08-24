@@ -4,7 +4,7 @@ date: 2024-08-21T10:30:13+06:00
 draft: false
 description: "Discover the average costs of hiring a real estate attorney in 2024, including factors that affect pricing and when you need legal representation for your property transactions."
 bg_image: "images/blog/blog_main.jpg"
-image: "images/blog/2.jpg"
+image: "/images/services/5.jpg"
 type: "post"
 ---
 

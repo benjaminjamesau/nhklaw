@@ -4,7 +4,7 @@ date: 2024-08-21T10:30:13+06:00
 draft: false
 description: "Discover the crucial differences between a real estate attorney and a real estate agent. Learn when to hire each professional to ensure a smooth, legally sound property transaction."
 bg_image: "images/blog/blog_main.jpg"
-image: "images/blog/2.jpg"
+image: "/images/services/8.jpg"
 type: "post"
 ---
 

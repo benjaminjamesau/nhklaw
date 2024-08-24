@@ -4,7 +4,7 @@ date: 2024-08-21T10:30:13+06:00
 draft: false
 description: "Discover expert tips on finding the perfect real estate attorney for your needs. Learn key qualifications to look for in a real estate lawyer, questions to ask, and how to ensure you get the best legal representation for your property transactions."
 bg_image: "images/blog/blog_main.jpg"
-image: "images/blog/2.jpg"
+image: "/images/services/6.jpg"
 type: "post"
 ---
 

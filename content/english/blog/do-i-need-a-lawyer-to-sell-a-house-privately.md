@@ -4,7 +4,7 @@ date: 2024-08-21T10:30:13+06:00
 draft: false
 description: "Discover whether you need a real estate lawyer to sell a house privately in Brooklyn, New York. Learn about legal requirements, potential risks, and how an attorney can protect your interests in the home selling process."
 bg_image: "images/blog/blog_main.jpg"
-image: "images/blog/4.jpg"
+image: "/images/services/2.jpg"
 type: "post"
 ---
 

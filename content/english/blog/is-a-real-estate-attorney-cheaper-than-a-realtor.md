@@ -4,7 +4,7 @@ date: 2024-08-21T10:30:13+06:00
 draft: false
 description: "Discover whether hiring a real estate attorney is more cost-effective than a realtor. Learn about fees, services, and when each professional is necessary in NYC property transactions."
 bg_image: "images/blog/blog_main.jpg"
-image: "images/blog/4.jpg"
+image: "/images/services/7.jpg"
 type: "post"
 ---
 

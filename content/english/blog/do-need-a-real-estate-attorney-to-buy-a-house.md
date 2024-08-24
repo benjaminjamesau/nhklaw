@@ -4,7 +4,7 @@ date: 2024-08-21T10:30:13+06:00
 draft: false
 description: "Discover why hiring a real estate attorney is crucial when buying a house in New York. Learn about their roles, benefits, and how they protect your interests throughout the real estate transaction process."
 bg_image: "images/blog/blog_main.jpg"
-image: "images/blog/2.jpg"
+image: "/images/services/3.jpg"
 type: "post"
 ---
 
