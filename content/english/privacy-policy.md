@@ -31,6 +31,6 @@ We intend to make every attempt to keep this information current. We do not prom
 ### Governing Law
 These Terms of Use and the Privacy Policy are governed by and are to be construed in accordance with the laws of the State of New York, without regard to its principles of conflicts of laws. You agree that any action concerning your use of this Site, these Terms of Use or the Privacy Policy shall be within the exclusive jurisdiction of the Courts of the Borough of New York in the State of New York.
 
-### Contacting Sishodia PLLC
+### Contacting Neil H. Kupferman, Esq., PC.
 These Terms of Use were last updated August 7, 2024. To contact use about these Terms of Use or this Site, please contact us nhk@nhklaw.com
 
