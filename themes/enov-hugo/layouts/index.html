@@ -198,7 +198,7 @@
     {{ end }}
 
     <div class="row">
-      {{ range $index, $element:= first 9 ( where .Site.RegularPages "Type" "post" )}}
+      {{ range $index, $element:= first 3 ( where .Site.RegularPages "Type" "post" )}}
       {{ $delay:= mul $index 100 }}
       <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
         <div class="shadow-sm-2 blog-item bg-white rounded" data-aos="fade-up" data-aos-delay="{{ $delay }}"
