@@ -184,7 +184,6 @@
 
 <!-- Section Blog Start -->
 {{ if $data.homepage.blog.enable }}
-<div style="display: none;" aria-hidden="true">
 <section class="section bg-gray blog-latest">
   <div class="container">
     {{ with $data.homepage.blog }}
@@ -199,7 +198,7 @@
     {{ end }}
 
     <div class="row">
-      {{ range $index, $element:= first 15 ( where .Site.RegularPages "Type" "post" )}}
+      {{ range $index, $element:= first 9 ( where .Site.RegularPages "Type" "post" )}}
       {{ $delay:= mul $index 100 }}
       <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
         <div class="shadow-sm-2 blog-item bg-white rounded" data-aos="fade-up" data-aos-delay="{{ $delay }}"
@@ -221,7 +220,6 @@
     </div>
   </div>
 </section>
-</div>
 {{ end }}
 <!-- Section Blog End -->
 
