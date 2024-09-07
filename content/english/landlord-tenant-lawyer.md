@@ -7,7 +7,7 @@ slug: "landlord-tenant-lawyer"
 bg_image: "/images/services/2.jpg"
 ---
 
-## Don't let housing disputes derail your life or business. Get knowledgeable legal guidance to resolve conflicts quickly and fairly.
+## Don't let housing disputes derail your life or business. Get knowledgeable landlord tenant legal guidance to resolve conflicts quickly and fairly.
 
 Are you facing a difficult situation with your landlord or tenant? New York City's complex housing laws can be overwhelming to navigate on your own. Whether you're dealing with eviction threats, lease violations, rent disputes, or other issues, you need a skilled attorney in your corner.
 
