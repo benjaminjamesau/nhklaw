@@ -91,7 +91,7 @@ With over two decades of experience practicing real estate law in Brooklyn, Neil
 
 _Neil H. Kupferman, Esq., PC does not claim any specialization or certification in real estate law, as the State of New York does not certify attorneys as specialists in particular areas of law\._
 
-**Let us put our knowledge to work for you. Contact us today to schedule your free initial consultation.**
+**Let us put our knowledge to work for you. [Contact us](/contact/) today to schedule your free initial consultation.**
 
 
 {{< cta title="Experienced Legal Counsel for All Your LLC, Corporation, Partnership Agreements Needs" 
