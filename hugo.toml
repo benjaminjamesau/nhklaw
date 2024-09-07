@@ -121,8 +121,8 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Services"
-  name = "Leasing Lawyers"
-  URL = "leasing-lawyers/"
+  name = "Landlord Tenant Lawyer"
+  URL = "landlord-tenant-lawyer/"
   weight = 2
 
   [[menu.main]]
