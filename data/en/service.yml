@@ -4,7 +4,7 @@ services:
 # service item loop
   - title : "Real Estate Lawyers"
     link : real-estate-lawyer
-    icon : "ti-write" # themify icon pack: https://themify.me/themify-icons
+    icon : "ti-pencil-alt" # themify icon pack: https://themify.me/themify-icons
     content : "Are you buying, selling, or dealing with real estate issues in Brooklyn?..."
 
       # service item loop
