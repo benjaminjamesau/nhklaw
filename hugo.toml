@@ -115,6 +115,11 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Services"
+  name = "Real Estate Lawyer"
+  URL = "real-estate-lawyer"
+
+  [[menu.main]]
+  parent = "Services"
   name = "Leasing Lawyers"
   URL = "leasing-lawyers/"
 
