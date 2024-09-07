@@ -24,7 +24,7 @@ Today, the Brooklyn Nets NBA team and the New York Islanders NHL team call the B
 
 ## **Real Estate Legal Services**
 
-- [Real Estate Lawyers Brooklyn](/real-estate-lawyers-brooklyn/)
+- [Real Estate Lawyers Brooklyn](/real-estate-lawyers/)
 - [Landlord Tenant Lawyer Brooklyn](/landlord-tenant-lawyer/)
 - [Areas Served](/area-served/)
 
