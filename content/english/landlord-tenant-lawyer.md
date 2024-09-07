@@ -1,9 +1,9 @@
 ---
-title: "Leasing Lawyers Brooklyn"
+title: "Landlord Tenant Lawyer Brooklyn NY"
 date: 2019-09-16T10:30:13+06:00
 type: "service"
 layout: "service/single"
-slug: "leasing-lawyers"
+slug: "landlord-tenant-lawyer"
 bg_image: "/images/services/2.jpg"
 ---
 

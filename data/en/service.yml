@@ -26,10 +26,10 @@ services:
     content : "Are you a business owner in Brooklyn dealing with the complexities of commercial leases? Many..."
 
   # service item loop
-  - title : "Leasing Lawyers"
-    link : leasing-lawyers
+  - title : "Landlord Tenant Lawyer"
+    link : landlord-tenant-lawyer
     icon : "ti-user"
-    content : "Are you a landlord or tenant facing complex leasing issues in Brooklyn? Don't risk your property..."
+    content : "Don't let housing disputes derail your life or business.."
     
 
 
