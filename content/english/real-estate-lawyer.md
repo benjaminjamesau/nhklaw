@@ -46,9 +46,9 @@ Are you buying, selling, or dealing with real estate issues in Brooklyn? Don't n
 
 <div class="testimonials-small">
 
-> *"Neil and Oren have my complete and total confidence. They expertly handled two of my complicated real estate transactions with minimal stress for myself or my husband. Both are very knowledgeable and responsive to any questions and or problems that arose during the process and made everything smooth and seamless. We didn't even need to take time off for the closing. Thank you for handling everything so well for us!"* - Emily Ruvinsky
+*"Neil and Oren have my complete and total confidence. They expertly handled two of my complicated real estate transactions with minimal stress for myself or my husband. Both are very knowledgeable and responsive to any questions and or problems that arose during the process and made everything smooth and seamless. We didn't even need to take time off for the closing. Thank you for handling everything so well for us!"* - Emily Ruvinsky
 
-> *"I have known Niel Kupferman for the better part of two decades, he's represented me on numerous occasions, first thing you'll discover is Niel's office is a small family oriented office where you feel like you're part of his family and you are treated as such. Mr. Kupferman treats all transaction's equal whether it's his own Family portfolio or clients and does so with extreme care and diligence. I only trust them to represent my family's real estate interests."* - Jody Sica
+*"I have known Niel Kupferman for the better part of two decades, he's represented me on numerous occasions, first thing you'll discover is Niel's office is a small family oriented office where you feel like you're part of his family and you are treated as such. Mr. Kupferman treats all transaction's equal whether it's his own Family portfolio or clients and does so with extreme care and diligence. I only trust them to represent my family's real estate interests."* - Jody Sica
 
 _Past results do not guarantee a similar outcome for future clients._
 
