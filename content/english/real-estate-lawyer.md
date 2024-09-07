@@ -63,7 +63,7 @@ Don't leave your real estate transaction to chance. Get knowledgeable legal guid
 
 - Call: [<span class="clickable-phone">(718) 768-3046</span>](tel:+17187683046)
 
-- Email: info\@nhklaw\.com
+- Email: contact\@nhklaw\.com
 
 _The free consultation is limited to a general discussion of your legal matter. It does not include review of documents or specific legal advice._
 
