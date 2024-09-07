@@ -135,7 +135,7 @@
           <i class="{{ .icon }} text-color text-lg"></i>
           <h4 class="mb-3 mt-4">{{ .title | markdownify }}</h4>
           <p>{{ .content | markdownify }}</p>
-          <a style="position: relative; z-index: 2;" href="/service/{{ .link }}">
+          <a style="position: relative; z-index: 2;" href="/{{ .link }}">
             <button class="btn btn-main">Read More</button>
           </a>
         </div>
