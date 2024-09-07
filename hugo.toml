@@ -117,27 +117,31 @@ hasChildren = true
   parent = "Services"
   name = "Real Estate Lawyer"
   URL = "real-estate-lawyer"
+  weight = 1
 
   [[menu.main]]
   parent = "Services"
   name = "Leasing Lawyers"
   URL = "leasing-lawyers/"
+  weight = 2
 
   [[menu.main]]
   parent = "Services"
   name = "Commercial Leasing"
   URL = "commercial-leasing/"
+  weight = 3
 
   [[menu.main]]
   parent = "Services"
   name = "LLC and Corporation Formation"
   URL = "llc-and-corporation-formation/"
+  weight = 4
 
   [[menu.main]]
   parent = "Services"
   name = "Business Agreements"
   URL = "business-agreements/"
-
+  weight = 5
 
 [[menu.main]]
 name = "About"
