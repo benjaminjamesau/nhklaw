@@ -5,37 +5,37 @@ services:
   - title : "Real Estate Lawyers"
     link : real-estate-lawyer
     icon : "ti-pencil-alt" # themify icon pack: https://themify.me/themify-icons
-    content : "Are you buying, selling, or dealing with real estate issues in Brooklyn?..."
+    content : "Are you buying, selling, or dealing with real estate issues in Brooklyn?"
 
       # service item loop
   - title : "Business Agreements"
     link : business-agreements
     icon : "ti-write" # themify icon pack: https://themify.me/themify-icons
-    content : "Are you a Brooklyn entrepreneur concerned about the legal foundation of your business?..."
+    content : "Are you a Brooklyn entrepreneur concerned about the legal foundation of your business?"
 
       # service item loop
   - title : "LLC and Corporation Formation"
     link : llc-and-corporation-formation
     icon : "ti-layout-grid3" # themify icon pack: https://themify.me/themify-icons
-    content : "Are you ready to turn your business idea into reality? Don't let legal complexities hold..."
+    content : "Are you ready to turn your business idea into reality?"
 
     # service item loop
   - title : "Commercial Leasing"
     link : commercial-leasing
     icon : "ti-bar-chart" # themify icon pack: https://themify.me/themify-icons
-    content : "Are you a business owner in Brooklyn dealing with the complexities of commercial leases? Many..."
+    content : "Are you a business owner in Brooklyn dealing with the complexities of commercial leases?"
 
   # service item loop
   - title : "Landlord Tenant Lawyer"
     link : landlord-tenant-lawyer
     icon : "ti-user"
-    content : "Don't let housing disputes derail your life or business.."
+    content : "Don't let housing disputes derail your life or business."
 
   # service item loop
   - title : "Hard Money Lenders"
     link : hard-money-lenders
     icon : "ti-money"
-    content : "Are you a real estate investor looking for alternative financing solutions.."
+    content : "Are you a real estate investor looking for alternative financing solutions?"
     
 
 
