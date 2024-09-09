@@ -24,8 +24,15 @@ Today, the Brooklyn Nets NBA team and the New York Islanders NHL team call the B
 
 ## **Real Estate Legal Services**
 
-- [Real Estate Lawyers Brooklyn](/real-estate-lawyer/)
-- [Landlord Tenant Lawyer Brooklyn](/landlord-tenant-lawyer/)
+- [Real Estate Lawyers Brooklyn](https://nhklaw.com/real-estate-lawyer/)
+- [Landlord Tenant Lawyer Brooklyn](https://nhklaw.com/landlord-tenant-lawyer/)
+- [Commercial Leasing Attorneys Brooklyn](https://nhklaw.com/commercial-leasing/)
+- [hard money lenders Brooklyn](https://nhklaw.com/hard-money-lenders/)
+- [business agreements Brooklyn](https://nhklaw.com/business-agreements/)
+- [Landlord Tenant Lawyer Brooklyn](https://nhklaw.com/landlord-tenant-lawyer/)
+- [LLC and Corporation Formation Attorney Brooklyn](https://nhklaw.com/llc-and-corporation-formation-attorney/)
+
+
 - [Areas Served](/area-served/)
 
 ##### **Call Neil H. Kupferman, Esq., PC at +17187683046**

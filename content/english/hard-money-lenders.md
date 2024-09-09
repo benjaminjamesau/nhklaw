@@ -42,8 +42,6 @@ Are you a real estate investor looking for alternative financing solutions? Neil
 
 The Brooklyn real estate market offers diverse opportunities. Contact us to discuss how we may be able to assist with your investment property financing needs.
 
-[Request Information] [Schedule a Consultation]
-
 ### Questions? Contact Us
 
 Call [<span class="clickable-phone">(718) 768-3046</span>](tel:+17187683046) or email contact@nhklaw.com to speak with a representative.
