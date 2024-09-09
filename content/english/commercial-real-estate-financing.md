@@ -7,7 +7,6 @@ slug: "commercial-real-estate-financing"
 bg_image: "/images/services/1.jpg"
 ---
 
-
 In the bustling world of New York City real estate, **commercial financing** plays a crucial role in shaping the skyline and driving economic growth. Whether you're a seasoned investor or a first-time developer, understanding the intricacies of commercial real estate financing is essential. This is where **commercial real estate financing attorneys** come into play, offering invaluable expertise and guidance through the complex landscape of property investments in the Big Apple.
 
 ## The Role of Commercial Real Estate Financing Attorneys
@@ -74,7 +73,7 @@ In the dynamic world of NYC commercial real estate, having a knowledgeable and e
 
 As the NYC real estate market continues to evolve, the role of commercial real estate financing attorneys becomes increasingly crucial. Their expertise ensures that your investments are protected, compliant, and positioned for success.
 
-**Ready to take the next step in your commercial real estate journey?** Contact Neil H. Kupferman, Esq., PC, at +17187683046 for expert legal assistance in commercial real estate financing. With years of experience in the NYC market, we're here to guide you through every step of your investment process.
+**Ready to take the next step in your commercial real estate journey?** Contact Neil H. Kupferman, Esq., PC, at [<span class="clickable-phone">(718) 768-3046</span>](tel:+17187683046) for expert legal assistance in commercial real estate financing. With years of experience in the NYC market, we're here to guide you through every step of your investment process.
 
 {{< faq questions=`[
   { "id": "1", "question": "What are the main types of commercial real estate financing?", "answer": "The main types include acquisition and development loans, construction loans, mezzanine financing, and CMBS loans." },
