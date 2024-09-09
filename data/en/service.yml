@@ -30,6 +30,12 @@ services:
     link : landlord-tenant-lawyer
     icon : "ti-user"
     content : "Don't let housing disputes derail your life or business.."
+
+  # service item loop
+  - title : "Hard Money Lenders"
+    link : hard-money-lenders
+    icon : "ti-money"
+    content : "Are you a real estate investor looking for alternative financing solutions.."
     
 
 
