@@ -143,6 +143,13 @@ hasChildren = true
   URL = "business-agreements/"
   weight = 5
 
+    [[menu.main]]
+  parent = "Services"
+  name = "Hard Money Lenders"
+  URL = "hard-money-lenders/"
+  weight = 6
+  
+
 [[menu.main]]
 name = "About"
 URL = "about/"
