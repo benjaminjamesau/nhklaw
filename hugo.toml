@@ -189,7 +189,7 @@ author = "Themefisher"
 address1 = "Neil H. Kupferman, Esq., PC"
 address2 = "459 6th Ave, Brooklyn, NY 11215, United States"
 phone = "+17187683046"
-email = "cog@nhklaw.com"
+email = "og@nhklaw.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
