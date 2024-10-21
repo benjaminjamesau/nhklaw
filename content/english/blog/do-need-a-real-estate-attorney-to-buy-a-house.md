@@ -50,7 +50,7 @@ A real estate attorney wears many hats throughout the home buying process. Their
 
 ## Is a Real Estate Attorney Legally Required in New York?
 
-While New York state law doesn't explicitly mandate the use of a [real estate attorney](/), the custom is so deeply ingrained that it's practically a requirement in many areas. However, it's important to note that practices can vary:
+While New York state law doesn't explicitly mandate the use of a [real estate attorney](https://nhklaw.com/real-estate-lawyer/), the custom is so deeply ingrained that it's practically a requirement in many areas. However, it's important to note that practices can vary:
 
 
 ### Regional Differences

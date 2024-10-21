@@ -170,7 +170,7 @@ While it's generally advisable to have legal representation for any home sale in
 
 Selling your house privately in New York can be a rewarding experience, but it's crucial to understand the legal landscape. While it's possible to navigate some aspects of the sale on your own, the complexity of New York real estate law and the potential risks involved make working with an attorney a wise choice for most sellers.
 
-By hiring a knowledgeable [real estate lawyers in Brooklyn](/), you can ensure that your interests are protected, all legal requirements are met, and your home sale proceeds smoothly. The peace of mind and potential savings from avoiding legal pitfalls often outweigh the cost of legal representation.
+By hiring a knowledgeable [real estate lawyers in Brooklyn](https://nhklaw.com/real-estate-lawyer/), you can ensure that your interests are protected, all legal requirements are met, and your home sale proceeds smoothly. The peace of mind and potential savings from avoiding legal pitfalls often outweigh the cost of legal representation.
 
 
 **Call to Action:** Selling your home privately in New York can be complex, but you don't have to navigate it alone. For expert legal guidance throughout the process, contact [Neil H. Kupferman, Esq., PC](/) at +17187683046 or a trusted title company. Our experienced real estate attorneys can help protect your interests and ensure a smooth, legally compliant home sale without a realtor, especially for home sellers. Don't take unnecessary risks with one of your most valuable assets – reach out today for a consultation.

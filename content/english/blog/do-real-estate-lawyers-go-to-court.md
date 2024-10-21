@@ -158,7 +158,7 @@ Selecting the right real estate lawyer in New York is crucial. Consider these st
 
 ## The Value of Legal Expertise in New York Real Estate
 
-While [real estate lawyers in Brooklyn](/) may not spend much time in court, their expertise is invaluable in navigating the complex world of property transactions in the state. From contract reviews to dispute resolution, they play a crucial role in protecting your interests and ensuring smooth, legally sound real estate deals in compliance with New York's stringent regulations
+While [real estate lawyers in Brooklyn](https://nhklaw.com/real-estate-lawyer/) may not spend much time in court, their expertise is invaluable in navigating the complex world of property transactions in the state. From contract reviews to dispute resolution, they play a crucial role in protecting your interests and ensuring smooth, legally sound real estate deals in compliance with New York's stringent regulations
 
 **Protect your interests in your next New York real estate transaction. Contact [Neil H. Kupferman, Esq., PC](/) at +17187683046 for expert legal guidance and representation.**
 

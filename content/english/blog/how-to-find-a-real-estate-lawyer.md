@@ -201,7 +201,7 @@ Remember, you'll be working closely with this person through an important transa
 
 ## Securing Your New York Real Estate Future with the Right Legal Partner
 
-Finding the right [real estate attorney in Brooklyn](/) is a crucial step in any property transaction. By thoroughly researching your options, evaluating qualifications, and understanding the unique aspects of New York real estate law, you can secure expert legal guidance that protects your interests and ensures a smooth process.
+Finding the right [real estate attorney in Brooklyn](https://nhklaw.com/real-estate-lawyer/) is a crucial step in any property transaction. By thoroughly researching your options, evaluating qualifications, and understanding the unique aspects of New York real estate law, you can secure expert legal guidance that protects your interests and ensures a smooth process.
 
 Remember, in New York, your real estate lawyer is not just a service provider but an essential partner in your property transaction. Take your time, ask questions, and choose someone who demonstrates deep knowledge of New York real estate practices and makes you feel confident and supported.
 

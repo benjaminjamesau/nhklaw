@@ -137,7 +137,7 @@ Whether you opt for an attorney, a realtor, or both, here are some tips for maki
 
 ## Making an Informed Decision
 
-Ultimately, the choice between a [real estate lawyers in Brooklyn](/) and a realtor (or both) depends on your specific needs, the complexity of your transaction, and the local real estate market conditions. While attorneys may offer more cost-effective solutions for straightforward deals or legally complex situations, realtors can provide invaluable market insights and negotiation skills that could justify their higher fees in certain scenarios.
+Ultimately, the choice between a [real estate lawyers in Brooklyn](https://nhklaw.com/real-estate-lawyer/) and a realtor (or both) depends on your specific needs, the complexity of your transaction, and the local real estate market conditions. While attorneys may offer more cost-effective solutions for straightforward deals or legally complex situations, realtors can provide invaluable market insights and negotiation skills that could justify their higher fees in certain scenarios.
 
 {{< faq questions=`[
   { "id": "1", "question": "Can I buy or sell property without a realtor or attorney in NYC?", "answer": "While possible, it's not recommended and often not legally compliant, due to the complex legal and market considerations in NYC real estate." },

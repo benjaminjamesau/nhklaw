@@ -150,7 +150,7 @@ While costs can vary, here's a general range to consider:
 
 Factors affecting cost include whether you need a real estate attorney.
 
-- The complexity of the transaction may require a [real estate attorney](/) from the bar association.
+- The complexity of the transaction may require a [real estate attorney](https://nhklaw.com/real-estate-lawyer/) from the bar association.
 
 - Attorney's experience
 

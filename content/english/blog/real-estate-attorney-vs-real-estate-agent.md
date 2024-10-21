@@ -146,7 +146,7 @@ In New York's unique real estate landscape, both real estate attorneys and agent
 
 ***
 
-For expert legal guidance in your New York real estate transactions, consider consulting with a qualified local [Brooklyn real estate attorney](/). They can provide personalized advice tailored to your specific situation and ensure your interests are protected throughout the process.
+For expert legal guidance in your New York real estate transactions, consider consulting with a qualified local [Brooklyn real estate attorney](https://nhklaw.com/real-estate-lawyer/). They can provide personalized advice tailored to your specific situation and ensure your interests are protected throughout the process.
 
 
 {{< cta title="Experienced Legal Counsel for All Your Real Estate Law Needs" 

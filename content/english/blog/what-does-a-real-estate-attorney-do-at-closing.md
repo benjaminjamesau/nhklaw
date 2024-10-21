@@ -8,7 +8,7 @@ image: "/images/services/9.jpg"
 type: "post"
 ---
 
-Are you preparing to buy or sell property in New York? Understanding the crucial role of a closing attorney can significantly impact your transaction. **real estate lawyer** During closing, having a knowledgeable [Brooklyn based real estate attorney](/) can make all the difference in your transaction. Let's dive into the essential functions these legal professionals perform to protect your interests and ensure a smooth property transfer.
+Are you preparing to buy or sell property in New York? Understanding the crucial role of a closing attorney can significantly impact your transaction. **real estate lawyer** During closing, having a knowledgeable [Brooklyn based real estate attorney](https://nhklaw.com/real-estate-lawyer/) can make all the difference in your transaction. Let's dive into the essential functions these legal professionals perform to protect your interests and ensure a smooth property transfer.
 
 
 ## The Importance of Real Estate Attorney in Property Transactions
