@@ -181,6 +181,8 @@ Don't navigate this intricate process alone. **Contact [Neil H. Kupferman, Esq.,
   button_text= "Contact Us"
   button_link= "/contact/" >}}
 
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/7Wlr7bvYjJY?si=tp6jP4I_5YYTwqbX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
  ## Related Real Estate Law Articles
 
   - [Can A Real Estate Attorney Draft A Real Estate Contract?](/blog/can-a-real-estate-attorney-draft-a-real-estate-contract/)

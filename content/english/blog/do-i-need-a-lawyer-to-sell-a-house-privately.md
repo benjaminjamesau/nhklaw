@@ -175,6 +175,8 @@ By hiring a knowledgeable [real estate lawyers in Brooklyn](https://nhklaw.com/r
 
 **Call to Action:** Selling your home privately in New York can be complex, but you don't have to navigate it alone. For expert legal guidance throughout the process, contact [Neil H. Kupferman, Esq., PC](/) at +17187683046 or a trusted title company. Our experienced real estate attorneys can help protect your interests and ensure a smooth, legally compliant home sale without a realtor, especially for home sellers. Don't take unnecessary risks with one of your most valuable assets – reach out today for a consultation.
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/RErbStZAQ2U?si=Okb0T9kkd4a332HM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
  ## Related Real Estate Law Articles
 
   - [Can A Real Estate Attorney Draft A Real Estate Contract?](/blog/can-a-real-estate-attorney-draft-a-real-estate-contract/)

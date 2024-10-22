@@ -51,5 +51,8 @@ Call [<span class="clickable-phone">(718) 768-3046</span>](tel:+17187683046) or 
 
 *Neil H. Kupferman, Esq., PC provides legal services separately from its mortgage lending activities. Obtaining a mortgage loan from Neil H. Kupferman, Esq., PC does not require the use of its legal services, nor does the use of its legal services require obtaining a mortgage loan through the firm.*
 
+<div style="display: none;" aria-hidden="true">
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Xwvtyxze6k4?si=NvH7iQjquE3D8yPu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 {{< locations >}}
