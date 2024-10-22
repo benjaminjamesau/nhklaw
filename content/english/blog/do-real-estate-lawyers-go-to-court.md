@@ -167,6 +167,9 @@ While [real estate lawyers in Brooklyn](https://nhklaw.com/real-estate-lawyer/) 
   button_text= "Contact Us"
   button_link= "/contact/" >}}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F2DUgAEyglo?si=5dsV-t0B1B6iBYcn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
  ## Related Real Estate Law Articles
 
   - [Can A Real Estate Attorney Draft A Real Estate Contract?](/blog/can-a-real-estate-attorney-draft-a-real-estate-contract/)
