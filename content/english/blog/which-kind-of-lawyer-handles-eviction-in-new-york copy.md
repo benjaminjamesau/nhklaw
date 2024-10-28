@@ -8,8 +8,6 @@ image: "/images/services/11.jpg"
 type: "post"
 ---
 
-# Which Kind of Lawyer Handles Eviction in New York: A Comprehensive Legal Guide
-
 ## Introduction to Legal Framework
 
 In New York's intricate housing landscape, eviction proceedings demand highly specialized legal expertise. Understanding which lawyer handles these cases requires examining the complex regulatory framework governing landlord-tenant relationships.

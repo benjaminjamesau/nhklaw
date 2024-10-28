@@ -8,8 +8,6 @@ image: "/images/services/9.jpg"
 type: "post"
 ---
 
-# How Much Notice Does a Landlord Have to Give a Tenant to Move Out in New York? (2024 Complete Eviction Process Guide)
-
 New York's landlord-tenant laws are among the most complex in the nation, particularly regarding notice requirements for tenant move-outs. This comprehensive guide reflects the current state of the law as of 2024, including recent changes and municipality-specific requirements.
 
 
