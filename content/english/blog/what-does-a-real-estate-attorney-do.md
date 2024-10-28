@@ -197,8 +197,9 @@ Remember, when it comes to one of the most significant financial decisions of yo
   button_text= "Contact Us"
   button_link= "/contact/" >}}
 
- ## Related Real Estate Law Articles
+  ## Related Real Estate Law Articles
 
+  - [Which Kind of Lawyer Handles Eviction in New York?](/blog/which-kind-of-lawyer-handles-eviction-in-new-york/)
   - [Can A Real Estate Attorney Draft A Real Estate Contract?](/blog/can-a-real-estate-attorney-draft-a-real-estate-contract/)
   - [Do I Need A Lawyer To Sell A house Privately?](/blog/do-i-need-a-lawyer-to-sell-a-house-privately/)
   - [Do Real Estate Lawyers Go To Court?](/blog/do-real-estate-lawyers-go-to-court/)

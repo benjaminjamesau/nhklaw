@@ -171,8 +171,9 @@ While [real estate lawyers in Brooklyn](https://nhklaw.com/real-estate-lawyer/) 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/F2DUgAEyglo?si=5dsV-t0B1B6iBYcn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
- ## Related Real Estate Law Articles
+  ## Related Real Estate Law Articles
 
+  - [Which Kind of Lawyer Handles Eviction in New York?](/blog/which-kind-of-lawyer-handles-eviction-in-new-york/)
   - [Can A Real Estate Attorney Draft A Real Estate Contract?](/blog/can-a-real-estate-attorney-draft-a-real-estate-contract/)
   - [Do I Need A Lawyer To Sell A house Privately?](/blog/do-i-need-a-lawyer-to-sell-a-house-privately/)
   - [Do Real Estate Lawyers Go To Court?](/blog/do-real-estate-lawyers-go-to-court/)
