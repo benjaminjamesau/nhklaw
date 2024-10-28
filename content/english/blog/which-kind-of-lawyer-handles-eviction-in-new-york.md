@@ -1,8 +1,8 @@
 ---
-title: "When To Hire A Real Estate Attorney?"
-date: 2024-08-21T10:30:13+06:00
+title: "Which Kind Of Lawyer Handles Eviction in New York? | NYC Eviction Attorney"
+date: 2024-10-21T10:30:13+06:00
 draft: false
-description: "Discover the crucial moments when hiring a real estate attorney can safeguard your property transaction. Learn about their role, benefits, and how they can save you time and money with your real estate transaction."
+description: "Discover the specialized lawyers who handle eviction cases, understand your rights, and learn how to get proper NYC eviction attorney consultation whether you're a landlord or tenant in eviction proceedings."
 bg_image: "images/blog/blog_main.jpg"
 image: "/images/services/11.jpg"
 type: "post"
