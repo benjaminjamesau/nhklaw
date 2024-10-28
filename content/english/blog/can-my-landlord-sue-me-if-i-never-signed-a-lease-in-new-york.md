@@ -8,6 +8,7 @@ image: "/images/services/6.jpg"
 type: "post"
 ---
 
+
 Living in New York without a written lease might feel legally uncertain, but state law provides specific protections and obligations for both landlords and tenants. As a tenant in New York, understanding your rights and responsibilities is crucial, especially in cases involving verbal agreements.
 
 
