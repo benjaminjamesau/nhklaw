@@ -14,5 +14,6 @@ Disallow: /archive/
 Disallow: /cdn-cgi/
 Disallow: /blog/page/
 Disallow: /author/
+Disallow: /ad/
 
 Sitemap: https://nhklaw.com/sitemap.xml
