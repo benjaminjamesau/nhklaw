@@ -162,7 +162,5 @@ _Licensed to practice law in New York State_ _Member of the New York State Bar A
 
 - Prior results do not guarantee similar outcomes
 
-_Serving New York residential real estate clients since 1998_ _Principal office: \459 6th Ave, Brooklyn, NY 11215, United States_
-
 
 {{< locations >}}
