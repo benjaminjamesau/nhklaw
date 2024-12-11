@@ -133,6 +133,12 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Services"
+  name = "Co-op & Condos Closing"
+  URL = "co-op-condos-closing"
+  weight = 2
+
+  [[menu.main]]
+  parent = "Services"
   name = "Commercial Leasing"
   URL = "commercial-leasing/"
   weight = 3
