@@ -9,7 +9,7 @@ bg_image: "/images/services/1.jpg"
 
 ## **Experienced Legal Guidance for Your New York Home Purchase**
 
-You've found the perfect home in New York. Now you need qualified legal representation to navigate the complexities of New York real estate law and protect your investment. The Law Office of Neil H. Kupferman, Esq., PC provides comprehensive closing services for residential properties throughout New York State.__
+You've found the perfect home in New York. Now you need qualified legal representation to navigate the complexities of New York real estate law and protect your investment. The Law Office of Neil H. Kupferman, Esq., PC provides comprehensive closing services for residential properties throughout New York State.
 
 
 ## Our Residential Closing Services
@@ -157,10 +157,6 @@ _Licensed to practice law in New York State_ _Member of the New York State Bar A
 - Response times may vary based on complexity of inquiry
 
 - Consultation required before representation
-
-- This website contains attorney advertising
-
-- Prior results do not guarantee similar outcomes
 
 
 {{< locations >}}
