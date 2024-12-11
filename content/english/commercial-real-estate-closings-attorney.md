@@ -155,7 +155,5 @@ Discuss your commercial real estate transaction with our real estate attorney te
   button_text= "Contact Us"
   button_link= "/contact/" >}}
 
-Principal office located in Brooklyn, New York. Consultations by appointment only.
-
 
 {{< locations >}}
