@@ -95,7 +95,7 @@ _Neil H. Kupferman, Esq., PC does not claim any specialization or certification 
 
 
 {{< cta title="Experienced Legal Counsel for All Your Real Estate Law Needs" 
-  description="At Neil H. Kupferman, Esq., PC, we understand that reak estate law can be complex and overwhelming. Our dedicated team of attorneys is here to guide you through every step of the process, ensuring your interests are protected and your goals are achieved."
+  description="At Neil H. Kupferman, Esq., PC, we understand that real estate law can be complex and overwhelming. Our dedicated team of attorneys is here to guide you through every step of the process, ensuring your interests are protected and your goals are achieved."
   button_text= "Contact Us"
   button_link= "/contact/" >}}
 

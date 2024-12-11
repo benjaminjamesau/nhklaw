@@ -11,9 +11,9 @@ bg_image: "/images/services/1.jpg"
 
 When your commercial real estate transaction represents a significant investment, you need experienced legal counsel to navigate the complexities. Our real estate law firm brings detailed knowledge of New York commercial property law to help protect your interests throughout the closing process.
 
-Principal Office: 459 6th Ave, Brooklyn, NY 11215, United States
-Registration: ID Number: 2722585
-Professional Liability Insurance Coverage Maintained as Required by NY Law
+- Principal Office: 459 6th Ave, Brooklyn, NY 11215, United States
+- Registration: ID Number: 2722585
+- Professional Liability Insurance Coverage Maintained as Required by NY Law
 
 
 ## **Comprehensive Due Diligence Services**
@@ -151,17 +151,11 @@ _As required by NY Rules of Professional Conduct:_
 Discuss your commercial real estate transaction with our real estate attorney team. Initial consultation fees and scope will be clearly disclosed prior to meeting.
 
 {{< cta title="Experienced Legal Counsel for All Your Real Estate Law Needs" 
-  description="At Neil H. Kupferman, Esq., PC, we understand that reak estate law can be complex and overwhelming. Our dedicated team of attorneys is here to guide you through every step of the process, ensuring your interests are protected and your goals are achieved."
+  description="At Neil H. Kupferman, Esq., PC, we understand that real estate law can be complex and overwhelming. Our dedicated team of attorneys is here to guide you through every step of the process, ensuring your interests are protected and your goals are achieved."
   button_text= "Contact Us"
   button_link= "/contact/" >}}
 
-Contact our office: Phone: +17187683046 Email: og\@nhklaw\.com
-
-_This is an attorney advertisement. The information provided is for general informational purposes only and does not constitute legal advice. No attorney-client relationship is formed without a signed engagement letter. Property matters outside New York State require coordination with local counsel._
-
 Principal office located in Brooklyn, New York. Consultations by appointment only.
-
-_All client testimonials are from actual clients. Prior results do not guarantee similar outcomes. Testimonials may not be representative of all client experiences._
 
 
 {{< locations >}}
