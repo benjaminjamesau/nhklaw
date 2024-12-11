@@ -121,6 +121,12 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Services"
+  name = "Residential Real Estate Closings"
+  URL = "residential-real-estate-closings-attorney"
+  weight = 2
+
+  [[menu.main]]
+  parent = "Services"
   name = "Commercial Real Estate Closings"
   URL = "commercial-real-estate-closings-attorney"
   weight = 2
