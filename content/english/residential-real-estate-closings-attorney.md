@@ -1,5 +1,5 @@
 ---
-title: "Residential Real Estate Closings Attorney Brooklyn"
+title: "Residential Real Estate Closing Attorney Brooklyn"
 date: 2024-09-08T10:30:13+06:00
 type: "service"
 layout: "service/single"
