@@ -8,6 +8,12 @@ services:
     content : "Are you buying, selling, or dealing with real estate issues in Brooklyn?"
 
       # service item loop
+  - title : "Commercial Real Estate Closings"
+    link : rcommercial-real-estate-closings-attorney
+    icon : "ti-envelope" # themify icon pack: https://themify.me/themify-icons
+    content : "Commercial real estate transaction represents a significant investment."
+
+      # service item loop
   - title : "Business Agreements"
     link : business-agreements
     icon : "ti-write" # themify icon pack: https://themify.me/themify-icons
