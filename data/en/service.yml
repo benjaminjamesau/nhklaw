@@ -7,37 +7,43 @@ services:
     icon : "ti-pencil-alt" # themify icon pack: https://themify.me/themify-icons
     content : "Are you buying, selling, or dealing with real estate issues in Brooklyn?"
 
-      # service item loop
+# service item loop
   - title : "Commercial Real Estate Closings"
     link : commercial-real-estate-closings-attorney
     icon : "ti-envelope" # themify icon pack: https://themify.me/themify-icons
     content : "Commercial real estate transaction represents a significant investment."
 
-        # service item loop
+# service item loop
   - title : "Residential Real Estate Closings"
     link : residential-real-estate-closings-attorney
     icon : "ti-folder" # themify icon pack: https://themify.me/themify-icons
     content : "The Law Office of Neil H. Kupferman, Esq., PC provides comprehensive closing services for residential properties"
 
-      # service item loop
+# service item loop
+  - title : "Co-op & Condos Closing"
+    link : co-op-condos-closing
+    icon : "ti-archive" # themify icon pack: https://themify.me/themify-icons
+    content : "Are you purchasing or selling a co-op or condo in New York?"
+
+# service item loop
   - title : "Business Agreements"
     link : business-agreements
     icon : "ti-write" # themify icon pack: https://themify.me/themify-icons
     content : "Are you a Brooklyn entrepreneur concerned about the legal foundation of your business?"
 
-      # service item loop
+# service item loop
   - title : "LLC and Corporation Formation"
     link : llc-and-corporation-formation
     icon : "ti-layout-grid3" # themify icon pack: https://themify.me/themify-icons
     content : "Are you ready to turn your business idea into reality?"
 
-    # service item loop
+# service item loop
   - title : "Commercial Leasing"
     link : commercial-leasing
     icon : "ti-bar-chart" # themify icon pack: https://themify.me/themify-icons
     content : "Are you a business owner in Brooklyn dealing with the complexities of commercial leases?"
 
-  # service item loop
+# service item loop
   - title : "Hard Money Lenders"
     link : hard-money-lenders
     icon : "ti-money"
