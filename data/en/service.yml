@@ -9,9 +9,15 @@ services:
 
       # service item loop
   - title : "Commercial Real Estate Closings"
-    link : rcommercial-real-estate-closings-attorney
+    link : commercial-real-estate-closings-attorney
     icon : "ti-envelope" # themify icon pack: https://themify.me/themify-icons
     content : "Commercial real estate transaction represents a significant investment."
+
+        # service item loop
+  - title : "Residential Real Estate Closings"
+    link : residential-real-estate-closings-attorney
+    icon : "ti-folder # themify icon pack: https://themify.me/themify-icons
+    content : "The Law Office of Neil H. Kupferman, Esq., PC provides comprehensive closing services for residential properties"
 
       # service item loop
   - title : "Business Agreements"
