@@ -21,7 +21,7 @@ services:
 
 # service item loop
   - title : "Co-op & Condos Closing"
-    link : co-op-condos-closing
+    link : co-op-condos-closing-attorney
     icon : "ti-archive" # themify icon pack: https://themify.me/themify-icons
     content : "Are you purchasing or selling a co-op or condo in New York?"
 
