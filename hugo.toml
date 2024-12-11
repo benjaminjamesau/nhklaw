@@ -129,37 +129,37 @@ hasChildren = true
   parent = "Services"
   name = "Commercial Real Estate Closings"
   URL = "commercial-real-estate-closings-attorney"
-  weight = 2
+  weight = 3
 
   [[menu.main]]
   parent = "Services"
   name = "Co-op & Condos Closing"
   URL = "co-op-condos-closing"
-  weight = 2
+  weight = 4
 
   [[menu.main]]
   parent = "Services"
   name = "Commercial Leasing"
   URL = "commercial-leasing/"
-  weight = 3
+  weight = 5
 
   [[menu.main]]
   parent = "Services"
   name = "LLC and Corporation Formation"
   URL = "llc-and-corporation-formation/"
-  weight = 4
+  weight = 6
 
   [[menu.main]]
   parent = "Services"
   name = "Business Agreements"
   URL = "business-agreements/"
-  weight = 5
+  weight = 7
 
     [[menu.main]]
   parent = "Services"
   name = "Hard Money Lenders"
   URL = "hard-money-lenders/"
-  weight = 6
+  weight = 8
   
 
 [[menu.main]]
