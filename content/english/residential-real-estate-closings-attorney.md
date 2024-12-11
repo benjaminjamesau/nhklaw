@@ -4,7 +4,7 @@ date: 2024-09-08T10:30:13+06:00
 type: "service"
 layout: "service/single"
 slug: "residential-real-estate-closings-attorney"
-bg_image: "/images/services/1.jpg"
+bg_image: "/images/services/4.jpg"
 ---
 
 ## **Experienced Legal Guidance for Your New York Home Purchase**
