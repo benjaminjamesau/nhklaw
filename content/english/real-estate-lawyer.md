@@ -94,8 +94,8 @@ _Neil H. Kupferman, Esq., PC does not claim any specialization or certification 
 **Let us put our knowledge to work for you. [Contact us](/contact/) today to schedule your free initial consultation.**
 
 
-{{< cta title="Experienced Legal Counsel for All Your LLC, Corporation, Partnership Agreements Needs" 
-  description="At Neil H. Kupferman, Esq., PC, we understand that LLC, corporation, partnership agreements can be complex and overwhelming. Our dedicated team of attorneys is here to guide you through every step of the process, ensuring your interests are protected and your goals are achieved."
+{{< cta title="Experienced Legal Counsel for All Your Real Estate Law Needs" 
+  description="At Neil H. Kupferman, Esq., PC, we understand that reak estate law can be complex and overwhelming. Our dedicated team of attorneys is here to guide you through every step of the process, ensuring your interests are protected and your goals are achieved."
   button_text= "Contact Us"
   button_link= "/contact/" >}}
 
