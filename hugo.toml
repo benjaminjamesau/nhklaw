@@ -134,7 +134,7 @@ hasChildren = true
   [[menu.main]]
   parent = "Services"
   name = "Co-op & Condos Closing"
-  URL = "co-op-condos-closing-attorney"
+  URL = "co-op-condo-closings-attorney"
   weight = 4
 
   [[menu.main]]

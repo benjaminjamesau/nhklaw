@@ -1,9 +1,9 @@
 ---
-title: "Co-op & Condos Closing Attorney Brooklyn"
+title: "Co-op & Condo Closings Attorney Brooklyn"
 date: 2024-09-08T10:30:13+06:00
 type: "service"
 layout: "service/single"
-slug: "co-op-condos-closing-attorney"
+slug: "co-op-condo-closings-attorney"
 bg_image: "/images/services/4.jpg"
 ---
 
